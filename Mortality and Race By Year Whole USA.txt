@@ -1,0 +1,1568 @@
+"Notes"	"Census Region"	"Census Region Code"	"Year"	"Year Code"	"Race"	"Race Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	14	212873	6.6 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	396	212873	186.0
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	197	2236541	8.8
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	106	2236541	4.7
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	40	2236541	1.8
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4298	2236541	192.2
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1813	6764575	26.8
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Black or African American"	"2054-5"	"Suicide"	"2"	288	6764575	4.3
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Black or African American"	"2054-5"	"Homicide"	"3"	1089	6764575	16.1
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Black or African American"	"2054-5"	"Undetermined "	"4"	92	6764575	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	13	6764575	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	44878	6764575	663.4
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"White"	"2106-3"	"Unintentional"	"1"	13190	44129786	29.9
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"White"	"2106-3"	"Suicide"	"2"	3819	44129786	8.7
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"White"	"2106-3"	"Homicide"	"3"	1125	44129786	2.5
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"White"	"2106-3"	"Undetermined "	"4"	804	44129786	1.8
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	17	44129786	0.0 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"1999"	"1999"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	413777	44129786	937.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	28	228158	12.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	404	228158	177.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	218	2323198	9.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	85	2323198	3.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	56	2323198	2.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	10	2323198	0.4 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4465	2323198	192.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1657	6832830	24.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Black or African American"	"2054-5"	"Suicide"	"2"	307	6832830	4.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Black or African American"	"2054-5"	"Homicide"	"3"	1221	6832830	17.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Black or African American"	"2054-5"	"Undetermined "	"4"	87	6832830	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	12	6832830	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	45280	6832830	662.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"White"	"2106-3"	"Unintentional"	"1"	12937	44210192	29.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"White"	"2106-3"	"Suicide"	"2"	3780	44210192	8.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"White"	"2106-3"	"Homicide"	"3"	977	44210192	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"White"	"2106-3"	"Undetermined "	"4"	714	44210192	1.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	20	44210192	0.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2000"	"2000"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	415562	44210192	940.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	32	246277	13.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	14	246277	5.7 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	418	246277	169.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	234	2462289	9.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	87	2462289	3.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	212	2462289	8.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	14	2462289	0.6 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4721	2462289	191.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1845	6918649	26.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Black or African American"	"2054-5"	"Suicide"	"2"	287	6918649	4.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Black or African American"	"2054-5"	"Homicide"	"3"	1489	6918649	21.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Black or African American"	"2054-5"	"Undetermined "	"4"	121	6918649	1.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	45161	6918649	652.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"White"	"2106-3"	"Unintentional"	"1"	13777	44288307	31.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"White"	"2106-3"	"Suicide"	"2"	3926	44288307	8.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"White"	"2106-3"	"Homicide"	"3"	3351	44288307	7.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"White"	"2106-3"	"Undetermined "	"4"	965	44288307	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	22	44288307	0.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2001"	"2001"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	411027	44288307	928.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	30	262682	11.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	462	262682	175.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	253	2572861	9.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	103	2572861	4.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	56	2572861	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	13	2572861	0.5 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4870	2572861	189.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1727	6982620	24.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Black or African American"	"2054-5"	"Suicide"	"2"	303	6982620	4.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Black or African American"	"2054-5"	"Homicide"	"3"	1217	6982620	17.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Black or African American"	"2054-5"	"Undetermined "	"4"	118	6982620	1.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	15	6982620	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	44943	6982620	643.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"White"	"2106-3"	"Unintentional"	"1"	13960	44325752	31.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"White"	"2106-3"	"Suicide"	"2"	3883	44325752	8.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"White"	"2106-3"	"Homicide"	"3"	979	44325752	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"White"	"2106-3"	"Undetermined "	"4"	993	44325752	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	25	44325752	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2002"	"2002"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	413308	44325752	932.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	26	279228	9.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	530	279228	189.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	236	2675695	8.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	105	2675695	3.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	55	2675695	2.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	5328	2675695	199.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1698	7040695	24.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Black or African American"	"2054-5"	"Suicide"	"2"	299	7040695	4.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Black or African American"	"2054-5"	"Homicide"	"3"	1348	7040695	19.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Black or African American"	"2054-5"	"Undetermined "	"4"	135	7040695	1.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	20	7040695	0.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	45037	7040695	639.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"White"	"2106-3"	"Unintentional"	"1"	14215	44338835	32.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"White"	"2106-3"	"Suicide"	"2"	3854	44338835	8.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"White"	"2106-3"	"Homicide"	"3"	979	44338835	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"White"	"2106-3"	"Undetermined "	"4"	1082	44338835	2.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	13	44338835	0.0 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2003"	"2003"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	407674	44338835	919.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	26	295589	8.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	13	295589	4.4 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	507	295589	171.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	232	2769803	8.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	109	2769803	3.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	49	2769803	1.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	12	2769803	0.4 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	5387	2769803	194.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1587	7083952	22.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Black or African American"	"2054-5"	"Suicide"	"2"	316	7083952	4.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Black or African American"	"2054-5"	"Homicide"	"3"	1263	7083952	17.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Black or African American"	"2054-5"	"Undetermined "	"4"	116	7083952	1.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	15	7083952	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	44256	7083952	624.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"White"	"2106-3"	"Unintentional"	"1"	14312	44274189	32.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"White"	"2106-3"	"Suicide"	"2"	3957	44274189	8.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"White"	"2106-3"	"Homicide"	"3"	1001	44274189	2.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"White"	"2106-3"	"Undetermined "	"4"	901	44274189	2.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	14	44274189	0.0 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2004"	"2004"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	398755	44274189	900.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	29	312168	9.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	516	312168	165.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	301	2865297	10.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	138	2865297	4.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	53	2865297	1.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	5746	2865297	200.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1891	7124822	26.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Black or African American"	"2054-5"	"Suicide"	"2"	295	7124822	4.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Black or African American"	"2054-5"	"Homicide"	"3"	1372	7124822	19.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Black or African American"	"2054-5"	"Undetermined "	"4"	88	7124822	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	15	7124822	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	44411	7124822	623.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"White"	"2106-3"	"Unintentional"	"1"	15134	44148943	34.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"White"	"2106-3"	"Suicide"	"2"	3980	44148943	9.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"White"	"2106-3"	"Homicide"	"3"	1016	44148943	2.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"White"	"2106-3"	"Undetermined "	"4"	517	44148943	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	10	44148943	0.0 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2005"	"2005"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	399867	44148943	905.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	46	329179	14.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	11	329179	3.3 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	467	329179	141.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	289	2958911	9.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	125	2958911	4.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	45	2958911	1.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	12	2958911	0.4 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	5760	2958911	194.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1936	7173667	27.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Black or African American"	"2054-5"	"Suicide"	"2"	278	7173667	3.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Black or African American"	"2054-5"	"Homicide"	"3"	1484	7173667	20.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Black or African American"	"2054-5"	"Undetermined "	"4"	91	7173667	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	12	7173667	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	42918	7173667	598.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"White"	"2106-3"	"Unintentional"	"1"	16136	44060902	36.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"White"	"2106-3"	"Suicide"	"2"	4115	44060902	9.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"White"	"2106-3"	"Homicide"	"3"	1053	44060902	2.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"White"	"2106-3"	"Undetermined "	"4"	566	44060902	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	18	44060902	0.0 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2006"	"2006"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	389131	44060902	883.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	33	347141	9.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	464	347141	133.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	287	3058132	9.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	137	3058132	4.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	43	3058132	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	13	3058132	0.4 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	6006	3058132	196.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1876	7228340	26.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Black or African American"	"2054-5"	"Suicide"	"2"	275	7228340	3.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Black or African American"	"2054-5"	"Homicide"	"3"	1354	7228340	18.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Black or African American"	"2054-5"	"Undetermined "	"4"	101	7228340	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	16	7228340	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	43000	7228340	594.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"White"	"2106-3"	"Unintentional"	"1"	16269	44019749	37.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"White"	"2106-3"	"Suicide"	"2"	4336	44019749	9.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"White"	"2106-3"	"Homicide"	"3"	965	44019749	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"White"	"2106-3"	"Undetermined "	"4"	623	44019749	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	21	44019749	0.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2007"	"2007"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	385884	44019749	876.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	37	367033	10.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	484	367033	131.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	278	3165266	8.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	136	3165266	4.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	43	3165266	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	12	3165266	0.4 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	6387	3165266	201.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1710	7300661	23.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Black or African American"	"2054-5"	"Suicide"	"2"	269	7300661	3.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Black or African American"	"2054-5"	"Homicide"	"3"	1354	7300661	18.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Black or African American"	"2054-5"	"Undetermined "	"4"	93	7300661	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	16	7300661	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	42827	7300661	586.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"White"	"2106-3"	"Unintentional"	"1"	16568	44042966	37.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"White"	"2106-3"	"Suicide"	"2"	4539	44042966	10.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"White"	"2106-3"	"Homicide"	"3"	948	44042966	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"White"	"2106-3"	"Undetermined "	"4"	523	44042966	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	26	44042966	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2008"	"2008"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	389988	44042966	885.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	29	388616	7.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	10	388616	2.6 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	432	388616	111.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	295	3269156	9.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	139	3269156	4.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	47	3269156	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	15	3269156	0.5 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	6572	3269156	201.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1557	7385644	21.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Black or African American"	"2054-5"	"Suicide"	"2"	288	7385644	3.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Black or African American"	"2054-5"	"Homicide"	"3"	1184	7385644	16.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Black or African American"	"2054-5"	"Undetermined "	"4"	72	7385644	1.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	20	7385644	0.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	42672	7385644	577.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"White"	"2106-3"	"Unintentional"	"1"	15551	44089685	35.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"White"	"2106-3"	"Suicide"	"2"	4582	44089685	10.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"White"	"2106-3"	"Homicide"	"3"	958	44089685	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"White"	"2106-3"	"Undetermined "	"4"	508	44089685	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	24	44089685	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2009"	"2009"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	382589	44089685	867.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	32	403763	7.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	11	403763	2.7 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	493	403763	122.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	304	3344311	9.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	165	3344311	4.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	37	3344311	1.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	6878	3344311	205.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1657	7451386	22.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Black or African American"	"2054-5"	"Suicide"	"2"	335	7451386	4.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Black or African American"	"2054-5"	"Homicide"	"3"	1390	7451386	18.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Black or African American"	"2054-5"	"Undetermined "	"4"	85	7451386	1.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	42675	7451386	572.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"White"	"2106-3"	"Unintentional"	"1"	16475	44117780	37.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"White"	"2106-3"	"Suicide"	"2"	4899	44117780	11.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"White"	"2106-3"	"Homicide"	"3"	973	44117780	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"White"	"2106-3"	"Undetermined "	"4"	572	44117780	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	20	44117780	0.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2010"	"2010"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	382684	44117780	867.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	37	410843	9.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	488	410843	118.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	355	3478781	10.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	158	3478781	4.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	44	3478781	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	15	3478781	0.4 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	7263	3478781	208.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1791	7560941	23.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Black or African American"	"2054-5"	"Suicide"	"2"	319	7560941	4.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Black or African American"	"2054-5"	"Homicide"	"3"	1306	7560941	17.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Black or African American"	"2054-5"	"Undetermined "	"4"	92	7560941	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	18	7560941	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	43301	7560941	572.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"White"	"2106-3"	"Unintentional"	"1"	17787	44182201	40.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"White"	"2106-3"	"Suicide"	"2"	5217	44182201	11.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"White"	"2106-3"	"Homicide"	"3"	983	44182201	2.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"White"	"2106-3"	"Undetermined "	"4"	614	44182201	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	34	44182201	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2011"	"2011"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	390203	44182201	883.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	41	417662	9.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	476	417662	114.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	357	3587039	10.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	191	3587039	5.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	42	3587039	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	18	3587039	0.5 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	7704	3587039	214.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1830	7640898	24.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Black or African American"	"2054-5"	"Suicide"	"2"	328	7640898	4.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Black or African American"	"2054-5"	"Homicide"	"3"	1241	7640898	16.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Black or African American"	"2054-5"	"Undetermined "	"4"	82	7640898	1.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	24	7640898	0.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	43241	7640898	565.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"White"	"2106-3"	"Unintentional"	"1"	18502	44183460	41.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"White"	"2106-3"	"Suicide"	"2"	5087	44183460	11.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"White"	"2106-3"	"Homicide"	"3"	916	44183460	2.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"White"	"2106-3"	"Undetermined "	"4"	530	44183460	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	35	44183460	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2012"	"2012"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	386785	44183460	875.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	37	422811	8.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	552	422811	130.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	379	3691497	10.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	184	3691497	5.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	46	3691497	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	18	3691497	0.5 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	8236	3691497	223.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1899	7721200	24.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Black or African American"	"2054-5"	"Suicide"	"2"	332	7721200	4.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Black or African American"	"2054-5"	"Homicide"	"3"	1133	7721200	14.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Black or African American"	"2054-5"	"Undetermined "	"4"	68	7721200	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	29	7721200	0.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	43965	7721200	569.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"White"	"2106-3"	"Unintentional"	"1"	19126	44153263	43.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"White"	"2106-3"	"Suicide"	"2"	5285	44153263	12.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"White"	"2106-3"	"Homicide"	"3"	891	44153263	2.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"White"	"2106-3"	"Undetermined "	"4"	549	44153263	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	36	44153263	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2013"	"2013"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	392739	44153263	889.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	55	427404	12.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	15	427404	3.5 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	546	427404	127.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	386	3801211	10.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	188	3801211	4.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	37	3801211	1.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	20	3801211	0.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	8849	3801211	232.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1968	7790674	25.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Black or African American"	"2054-5"	"Suicide"	"2"	344	7790674	4.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Black or African American"	"2054-5"	"Homicide"	"3"	1101	7790674	14.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Black or African American"	"2054-5"	"Undetermined "	"4"	69	7790674	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	19	7790674	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	45268	7790674	581.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"White"	"2106-3"	"Unintentional"	"1"	19775	44097502	44.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"White"	"2106-3"	"Suicide"	"2"	5435	44097502	12.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"White"	"2106-3"	"Homicide"	"3"	825	44097502	1.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"White"	"2106-3"	"Undetermined "	"4"	518	44097502	1.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	25	44097502	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2014"	"2014"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	389721	44097502	883.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	52	432576	12.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	12	432576	2.8 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	571	432576	132.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	431	3906568	11.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	206	3906568	5.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	35	3906568	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	19	3906568	0.5 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	9402	3906568	240.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2209	7852666	28.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Black or African American"	"2054-5"	"Suicide"	"2"	366	7852666	4.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Black or African American"	"2054-5"	"Homicide"	"3"	1203	7852666	15.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Black or African American"	"2054-5"	"Undetermined "	"4"	81	7852666	1.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	13	7852666	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	45371	7852666	577.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"White"	"2106-3"	"Unintentional"	"1"	22005	43992927	50.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"White"	"2106-3"	"Suicide"	"2"	5470	43992927	12.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"White"	"2106-3"	"Homicide"	"3"	840	43992927	1.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"White"	"2106-3"	"Undetermined "	"4"	572	43992927	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	38	43992927	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2015"	"2015"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	400479	43992927	910.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	79	437629	18.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	16	437629	3.7 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	574	437629	131.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	467	4004242	11.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	199	4004242	5.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	36	4004242	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	16	4004242	0.4 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	9797	4004242	244.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2732	7908555	34.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Black or African American"	"2054-5"	"Suicide"	"2"	367	7908555	4.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Black or African American"	"2054-5"	"Homicide"	"3"	1213	7908555	15.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Black or African American"	"2054-5"	"Undetermined "	"4"	102	7908555	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	14	7908555	0.2 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	46727	7908555	590.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"White"	"2106-3"	"Unintentional"	"1"	25014	43859084	57.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"White"	"2106-3"	"Suicide"	"2"	5496	43859084	12.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"White"	"2106-3"	"Homicide"	"3"	855	43859084	1.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"White"	"2106-3"	"Undetermined "	"4"	625	43859084	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	38	43859084	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2016"	"2016"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	395709	43859084	902.2
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	252	443191	56.9
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	47	443191	10.6
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	43	443191	9.7
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	11	443191	2.5 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	1815	443191	409.5
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	170	1255799	13.5
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	55	1255799	4.4
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	38	1255799	3.0
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2149	1255799	171.1
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2404	6701954	35.9
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Black or African American"	"2054-5"	"Suicide"	"2"	463	6701954	6.9
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Black or African American"	"2054-5"	"Homicide"	"3"	2042	6701954	30.5
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Black or African American"	"2054-5"	"Undetermined "	"4"	113	6701954	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	23	6701954	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50833	6701954	758.5
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"White"	"2106-3"	"Unintentional"	"1"	20153	55699117	36.2
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"White"	"2106-3"	"Suicide"	"2"	5846	55699117	10.5
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"White"	"2106-3"	"Homicide"	"3"	1508	55699117	2.7
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"White"	"2106-3"	"Undetermined "	"4"	535	55699117	1.0
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	35	55699117	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"1999"	"1999"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	493604	55699117	886.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	243	473907	51.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	50	473907	10.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	37	473907	7.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	14	473907	3.0 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	1793	473907	378.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	150	1323974	11.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	63	1323974	4.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	35	1323974	2.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2206	1323974	166.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2356	6779740	34.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Black or African American"	"2054-5"	"Suicide"	"2"	400	6779740	5.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Black or African American"	"2054-5"	"Homicide"	"3"	1942	6779740	28.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Black or African American"	"2054-5"	"Undetermined "	"4"	105	6779740	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	17	6779740	0.3 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50373	6779740	743.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"White"	"2106-3"	"Unintentional"	"1"	19744	55815155	35.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"White"	"2106-3"	"Suicide"	"2"	5934	55815155	10.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"White"	"2106-3"	"Homicide"	"3"	1531	55815155	2.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"White"	"2106-3"	"Undetermined "	"4"	583	55815155	1.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	33	55815155	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2000"	"2000"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	489229	55815155	876.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	240	486054	49.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	69	486054	14.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	26	486054	5.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	12	486054	2.5 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	1916	486054	394.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	171	1403936	12.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	65	1403936	4.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	49	1403936	3.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2419	1403936	172.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2342	6878679	34.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Black or African American"	"2054-5"	"Suicide"	"2"	438	6878679	6.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Black or African American"	"2054-5"	"Homicide"	"3"	2091	6878679	30.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Black or African American"	"2054-5"	"Undetermined "	"4"	114	6878679	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	15	6878679	0.2 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50030	6878679	727.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"White"	"2106-3"	"Unintentional"	"1"	20469	56007862	36.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"White"	"2106-3"	"Suicide"	"2"	6364	56007862	11.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"White"	"2106-3"	"Homicide"	"3"	1624	56007862	2.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"White"	"2106-3"	"Undetermined "	"4"	701	56007862	1.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	45	56007862	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2001"	"2001"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	485800	56007862	867.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	267	498837	53.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	54	498837	10.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	34	498837	6.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	13	498837	2.6 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	1917	498837	384.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	177	1468197	12.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	63	1468197	4.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	34	1468197	2.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2551	1468197	173.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2388	6945761	34.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Black or African American"	"2054-5"	"Suicide"	"2"	405	6945761	5.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Black or African American"	"2054-5"	"Homicide"	"3"	2049	6945761	29.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Black or African American"	"2054-5"	"Undetermined "	"4"	134	6945761	1.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	20	6945761	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50968	6945761	733.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"White"	"2106-3"	"Unintentional"	"1"	21400	56105498	38.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"White"	"2106-3"	"Suicide"	"2"	6621	56105498	11.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"White"	"2106-3"	"Homicide"	"3"	1477	56105498	2.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"White"	"2106-3"	"Undetermined "	"4"	732	56105498	1.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	42	56105498	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2002"	"2002"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	491231	56105498	875.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	276	512121	53.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	55	512121	10.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	38	512121	7.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	11	512121	2.1 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	1986	512121	387.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	192	1532015	12.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	68	1532015	4.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	26	1532015	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2572	1532015	167.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2236	7010525	31.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Black or African American"	"2054-5"	"Suicide"	"2"	395	7010525	5.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Black or African American"	"2054-5"	"Homicide"	"3"	1919	7010525	27.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Black or African American"	"2054-5"	"Undetermined "	"4"	102	7010525	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	23	7010525	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	51015	7010525	727.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"White"	"2106-3"	"Unintentional"	"1"	21195	56222293	37.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"White"	"2106-3"	"Suicide"	"2"	6213	56222293	11.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"White"	"2106-3"	"Homicide"	"3"	1410	56222293	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"White"	"2106-3"	"Undetermined "	"4"	743	56222293	1.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	55	56222293	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2003"	"2003"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	487310	56222293	866.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	269	526575	51.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	87	526575	16.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	35	526575	6.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	12	526575	2.3 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2052	526575	389.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	182	1591926	11.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	83	1591926	5.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	31	1591926	1.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2653	1591926	166.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2380	7076731	33.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Black or African American"	"2054-5"	"Suicide"	"2"	415	7076731	5.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Black or African American"	"2054-5"	"Homicide"	"3"	1872	7076731	26.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Black or African American"	"2054-5"	"Undetermined "	"4"	107	7076731	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	10	7076731	0.1 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50273	7076731	710.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"White"	"2106-3"	"Unintentional"	"1"	21826	56337073	38.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"White"	"2106-3"	"Suicide"	"2"	6529	56337073	11.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"White"	"2106-3"	"Homicide"	"3"	1403	56337073	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"White"	"2106-3"	"Undetermined "	"4"	857	56337073	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	48	56337073	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2004"	"2004"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	471597	56337073	837.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	299	541424	55.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	91	541424	16.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	55	541424	10.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	11	541424	2.0 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2143	541424	395.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	167	1652344	10.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	74	1652344	4.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	41	1652344	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2888	1652344	174.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2351	7140535	32.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Black or African American"	"2054-5"	"Suicide"	"2"	373	7140535	5.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Black or African American"	"2054-5"	"Homicide"	"3"	2045	7140535	28.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Black or African American"	"2054-5"	"Undetermined "	"4"	111	7140535	1.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	24	7140535	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50717	7140535	710.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"White"	"2106-3"	"Unintentional"	"1"	22738	56417569	40.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"White"	"2106-3"	"Suicide"	"2"	6754	56417569	12.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"White"	"2106-3"	"Homicide"	"3"	1419	56417569	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"White"	"2106-3"	"Undetermined "	"4"	792	56417569	1.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	42	56417569	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2005"	"2005"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	481588	56417569	853.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	289	557462	51.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	80	557462	14.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	37	557462	6.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	20	557462	3.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2199	557462	394.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	186	1713393	10.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	83	1713393	4.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	28	1713393	1.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	10	1713393	0.6 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2927	1713393	170.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2696	7216686	37.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Black or African American"	"2054-5"	"Suicide"	"2"	433	7216686	6.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Black or African American"	"2054-5"	"Homicide"	"3"	2171	7216686	30.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Black or African American"	"2054-5"	"Undetermined "	"4"	113	7216686	1.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	15	7216686	0.2 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50104	7216686	694.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"White"	"2106-3"	"Unintentional"	"1"	23419	56541014	41.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"White"	"2106-3"	"Suicide"	"2"	6855	56541014	12.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"White"	"2106-3"	"Homicide"	"3"	1400	56541014	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"White"	"2106-3"	"Undetermined "	"4"	842	56541014	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	46	56541014	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2006"	"2006"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	474334	56541014	838.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	278	573800	48.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	82	573800	14.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	24	573800	4.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	21	573800	3.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2236	573800	389.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	203	1773672	11.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	77	1773672	4.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	42	1773672	2.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	2992	1773672	168.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2597	7286226	35.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Black or African American"	"2054-5"	"Suicide"	"2"	382	7286226	5.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Black or African American"	"2054-5"	"Homicide"	"3"	2053	7286226	28.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Black or African American"	"2054-5"	"Undetermined "	"4"	133	7286226	1.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	21	7286226	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50202	7286226	689.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"White"	"2106-3"	"Unintentional"	"1"	23910	56659991	42.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"White"	"2106-3"	"Suicide"	"2"	6974	56659991	12.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"White"	"2106-3"	"Homicide"	"3"	1433	56659991	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"White"	"2106-3"	"Undetermined "	"4"	849	56659991	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	48	56659991	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2007"	"2007"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	470098	56659991	829.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	245	591788	41.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	75	591788	12.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	32	591788	5.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	10	591788	1.7 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2235	591788	377.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	209	1829650	11.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	75	1829650	4.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	31	1829650	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	13	1829650	0.7 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	3270	1829650	178.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2384	7350163	32.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Black or African American"	"2054-5"	"Suicide"	"2"	444	7350163	6.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Black or African American"	"2054-5"	"Homicide"	"3"	2036	7350163	27.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Black or African American"	"2054-5"	"Undetermined "	"4"	149	7350163	2.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	18	7350163	0.2 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50186	7350163	682.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"White"	"2106-3"	"Unintentional"	"1"	24084	56752334	42.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"White"	"2106-3"	"Suicide"	"2"	7241	56752334	12.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"White"	"2106-3"	"Homicide"	"3"	1395	56752334	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"White"	"2106-3"	"Undetermined "	"4"	978	56752334	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	47	56752334	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2008"	"2008"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	487099	56752334	858.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	321	608204	52.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	83	608204	13.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	43	608204	7.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	13	608204	2.1 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2203	608204	362.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	179	1885638	9.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	83	1885638	4.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	40	1885638	2.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	11	1885638	0.6 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	3496	1885638	185.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2329	7414058	31.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Black or African American"	"2054-5"	"Suicide"	"2"	375	7414058	5.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Black or African American"	"2054-5"	"Homicide"	"3"	1951	7414058	26.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Black or African American"	"2054-5"	"Undetermined "	"4"	124	7414058	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	19	7414058	0.3 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	49059	7414058	661.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"White"	"2106-3"	"Unintentional"	"1"	22712	56840537	40.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"White"	"2106-3"	"Suicide"	"2"	7109	56840537	12.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"White"	"2106-3"	"Homicide"	"3"	1332	56840537	2.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"White"	"2106-3"	"Undetermined "	"4"	961	56840537	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	44	56840537	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2009"	"2009"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	474178	56840537	834.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	287	623348	46.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	91	623348	14.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	41	623348	6.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	18	623348	2.9 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2373	623348	380.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	208	1927160	10.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	116	1927160	6.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	16	1927160	0.8 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	3707	1927160	192.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2277	7466580	30.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Black or African American"	"2054-5"	"Suicide"	"2"	406	7466580	5.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Black or African American"	"2054-5"	"Homicide"	"3"	1922	7466580	25.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Black or African American"	"2054-5"	"Undetermined "	"4"	128	7466580	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	31	7466580	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	49488	7466580	662.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"White"	"2106-3"	"Unintentional"	"1"	24224	56909913	42.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"White"	"2106-3"	"Suicide"	"2"	7598	56909913	13.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"White"	"2106-3"	"Homicide"	"3"	1258	56909913	2.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"White"	"2106-3"	"Undetermined "	"4"	953	56909913	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	53	56909913	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2010"	"2010"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	480225	56909913	843.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	330	633095	52.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	80	633095	12.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	36	633095	5.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	14	633095	2.2 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2389	633095	377.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	208	2011594	10.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	100	2011594	5.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	31	2011594	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	3889	2011594	193.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2405	7530721	31.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Black or African American"	"2054-5"	"Suicide"	"2"	449	7530721	6.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Black or African American"	"2054-5"	"Homicide"	"3"	1974	7530721	26.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Black or African American"	"2054-5"	"Undetermined "	"4"	108	7530721	1.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	34	7530721	0.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50152	7530721	666.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"White"	"2106-3"	"Unintentional"	"1"	25405	56977921	44.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"White"	"2106-3"	"Suicide"	"2"	7768	56977921	13.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"White"	"2106-3"	"Homicide"	"3"	1313	56977921	2.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"White"	"2106-3"	"Undetermined "	"4"	959	56977921	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	52	56977921	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2011"	"2011"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	489471	56977921	859.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	331	641711	51.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	80	641711	12.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	40	641711	6.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	11	641711	1.7 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2562	641711	399.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	222	2087186	10.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	122	2087186	5.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	30	2087186	1.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4161	2087186	199.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2427	7581526	32.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Black or African American"	"2054-5"	"Suicide"	"2"	460	7581526	6.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Black or African American"	"2054-5"	"Homicide"	"3"	2124	7581526	28.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Black or African American"	"2054-5"	"Undetermined "	"4"	99	7581526	1.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	31	7581526	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	50998	7581526	672.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"White"	"2106-3"	"Unintentional"	"1"	25861	57021897	45.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"White"	"2106-3"	"Suicide"	"2"	8029	57021897	14.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"White"	"2106-3"	"Homicide"	"3"	1331	57021897	2.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"White"	"2106-3"	"Undetermined "	"4"	873	57021897	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	52	57021897	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2012"	"2012"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	491369	57021897	861.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	302	651024	46.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	97	651024	14.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	42	651024	6.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2585	651024	397.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	233	2167745	10.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	138	2167745	6.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	36	2167745	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	11	2167745	0.5 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4614	2167745	212.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2759	7638827	36.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Black or African American"	"2054-5"	"Suicide"	"2"	492	7638827	6.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Black or African American"	"2054-5"	"Homicide"	"3"	2090	7638827	27.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Black or African American"	"2054-5"	"Undetermined "	"4"	101	7638827	1.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	27	7638827	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	51996	7638827	680.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"White"	"2106-3"	"Unintentional"	"1"	26427	57086352	46.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"White"	"2106-3"	"Suicide"	"2"	8214	57086352	14.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"White"	"2106-3"	"Homicide"	"3"	1291	57086352	2.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"White"	"2106-3"	"Undetermined "	"4"	852	57086352	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	54	57086352	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2013"	"2013"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	499316	57086352	874.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	302	659576	45.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	85	659576	12.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	41	659576	6.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	13	659576	2.0 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2757	659576	418.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	243	2249245	10.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	124	2249245	5.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	39	2249245	1.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	10	2249245	0.4 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4655	2249245	207.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Black or African American"	"2054-5"	"Unintentional"	"1"	2853	7695756	37.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Black or African American"	"2054-5"	"Suicide"	"2"	448	7695756	5.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Black or African American"	"2054-5"	"Homicide"	"3"	1997	7695756	25.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Black or African American"	"2054-5"	"Undetermined "	"4"	108	7695756	1.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	32	7695756	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	52853	7695756	686.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"White"	"2106-3"	"Unintentional"	"1"	27816	57121791	48.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"White"	"2106-3"	"Suicide"	"2"	8397	57121791	14.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"White"	"2106-3"	"Homicide"	"3"	1240	57121791	2.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"White"	"2106-3"	"Undetermined "	"4"	882	57121791	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	65	57121791	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2014"	"2014"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	504402	57121791	883.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	382	666765	57.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	123	666765	18.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	50	666765	7.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	24	666765	3.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2716	666765	407.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	301	2327381	12.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	136	2327381	5.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	36	2327381	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	12	2327381	0.5 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4988	2327381	214.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Black or African American"	"2054-5"	"Unintentional"	"1"	3132	7745497	40.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Black or African American"	"2054-5"	"Suicide"	"2"	467	7745497	6.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Black or African American"	"2054-5"	"Homicide"	"3"	2317	7745497	29.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Black or African American"	"2054-5"	"Undetermined "	"4"	145	7745497	1.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	27	7745497	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	53947	7745497	696.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"White"	"2106-3"	"Unintentional"	"1"	29433	57098744	51.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"White"	"2106-3"	"Suicide"	"2"	8746	57098744	15.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"White"	"2106-3"	"Homicide"	"3"	1389	57098744	2.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"White"	"2106-3"	"Undetermined "	"4"	908	57098744	1.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	59	57098744	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2015"	"2015"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	514466	57098744	901.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	423	673448	62.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	135	673448	20.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	43	673448	6.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	19	673448	2.8 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2831	673448	420.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	304	2405846	12.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	174	2405846	7.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	26	2405846	1.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	14	2405846	0.6 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	5356	2405846	222.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Black or African American"	"2054-5"	"Unintentional"	"1"	3983	7790771	51.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Black or African American"	"2054-5"	"Suicide"	"2"	566	7790771	7.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Black or African American"	"2054-5"	"Homicide"	"3"	2638	7790771	33.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Black or African American"	"2054-5"	"Undetermined "	"4"	137	7790771	1.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	28	7790771	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	55472	7790771	712.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"White"	"2106-3"	"Unintentional"	"1"	32203	57071364	56.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"White"	"2106-3"	"Suicide"	"2"	8903	57071364	15.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"White"	"2106-3"	"Homicide"	"3"	1577	57071364	2.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"White"	"2106-3"	"Undetermined "	"4"	1014	57071364	1.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	65	57071364	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2016"	"2016"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	511233	57071364	895.8
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	246	787561	31.2
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	42	787561	5.3
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	60	787561	7.6
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2563	787561	325.4
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	267	2048707	13.0
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	103	2048707	5.0
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	78	2048707	3.8
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	3367	2048707	164.3
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7488	19276054	38.8
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Black or African American"	"2054-5"	"Suicide"	"2"	971	19276054	5.0
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Black or African American"	"2054-5"	"Homicide"	"3"	3814	19276054	19.8
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Black or African American"	"2054-5"	"Undetermined "	"4"	442	19276054	2.3
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	70	19276054	0.4
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	145253	19276054	753.5
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"White"	"2106-3"	"Unintentional"	"1"	31390	77052138	40.7
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"White"	"2106-3"	"Suicide"	"2"	10065	77052138	13.1
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"White"	"2106-3"	"Homicide"	"3"	3465	77052138	4.5
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"White"	"2106-3"	"Undetermined "	"4"	991	77052138	1.3
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	115	77052138	0.1
+	"Census Region 3: South"	"CENS-R3"	"1999"	"1999"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	669100	77052138	868.4
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	234	848582	27.6
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	57	848582	6.7
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	54	848582	6.4
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2584	848582	304.5
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	302	2172646	13.9
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	90	2172646	4.1
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	90	2172646	4.1
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	3680	2172646	169.4
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7296	19505001	37.4
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Black or African American"	"2054-5"	"Suicide"	"2"	1047	19505001	5.4
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Black or African American"	"2054-5"	"Homicide"	"3"	3935	19505001	20.2
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Black or African American"	"2054-5"	"Undetermined "	"4"	426	19505001	2.2
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	71	19505001	0.4
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	146571	19505001	751.5
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"White"	"2106-3"	"Unintentional"	"1"	32499	77710591	41.8
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"White"	"2106-3"	"Suicide"	"2"	10240	77710591	13.2
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"White"	"2106-3"	"Homicide"	"3"	3477	77710591	4.5
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"White"	"2106-3"	"Undetermined "	"4"	1028	77710591	1.3
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	112	77710591	0.1
+	"Census Region 3: South"	"CENS-R3"	"2000"	"2000"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	680206	77710591	875.3
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	280	884201	31.7
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	48	884201	5.4
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	50	884201	5.7
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2612	884201	295.4
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	310	2340673	13.2
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	116	2340673	5.0
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	95	2340673	4.1
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	3957	2340673	169.1
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7292	19894170	36.7
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Black or African American"	"2054-5"	"Suicide"	"2"	1037	19894170	5.2
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Black or African American"	"2054-5"	"Homicide"	"3"	3846	19894170	19.3
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Black or African American"	"2054-5"	"Undetermined "	"4"	388	19894170	2.0
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	48	19894170	0.2
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	147699	19894170	742.4
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"White"	"2106-3"	"Unintentional"	"1"	34406	78730531	43.7
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"White"	"2106-3"	"Suicide"	"2"	10858	78730531	13.8
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"White"	"2106-3"	"Homicide"	"3"	3745	78730531	4.8
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"White"	"2106-3"	"Undetermined "	"4"	1081	78730531	1.4
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	125	78730531	0.2
+	"Census Region 3: South"	"CENS-R3"	"2001"	"2001"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	681003	78730531	865.0
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	294	919232	32.0
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	59	919232	6.4
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	58	919232	6.3
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	2887	919232	314.1
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	379	2482247	15.3
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	106	2482247	4.3
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	103	2482247	4.1
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4174	2482247	168.2
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7237	20201569	35.8
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Black or African American"	"2054-5"	"Suicide"	"2"	991	20201569	4.9
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Black or African American"	"2054-5"	"Homicide"	"3"	4075	20201569	20.2
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Black or African American"	"2054-5"	"Undetermined "	"4"	446	20201569	2.2
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	68	20201569	0.3
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	149053	20201569	737.8
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"White"	"2106-3"	"Unintentional"	"1"	35692	79547739	44.9
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"White"	"2106-3"	"Suicide"	"2"	11037	79547739	13.9
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"White"	"2106-3"	"Homicide"	"3"	3514	79547739	4.4
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"White"	"2106-3"	"Undetermined "	"4"	1294	79547739	1.6
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	112	79547739	0.1
+	"Census Region 3: South"	"CENS-R3"	"2002"	"2002"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	690074	79547739	867.5
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	294	954140	30.8
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	55	954140	5.8
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	41	954140	4.3
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3019	954140	316.4
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	388	2621214	14.8
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	150	2621214	5.7
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	102	2621214	3.9
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4415	2621214	168.4
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7280	20490727	35.5
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Black or African American"	"2054-5"	"Suicide"	"2"	1033	20490727	5.0
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Black or African American"	"2054-5"	"Homicide"	"3"	4181	20490727	20.4
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Black or African American"	"2054-5"	"Undetermined "	"4"	398	20490727	1.9
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	55	20490727	0.3
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	149690	20490727	730.5
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"White"	"2106-3"	"Unintentional"	"1"	37655	80314107	46.9
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"White"	"2106-3"	"Suicide"	"2"	11017	80314107	13.7
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"White"	"2106-3"	"Homicide"	"3"	3581	80314107	4.5
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"White"	"2106-3"	"Undetermined "	"4"	1365	80314107	1.7
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	116	80314107	0.1
+	"Census Region 3: South"	"CENS-R3"	"2003"	"2003"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	692569	80314107	862.3
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	343	991376	34.6
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	62	991376	6.3
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	57	991376	5.7
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	13	991376	1.3 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3141	991376	316.8
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	372	2769811	13.4
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	141	2769811	5.1
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	70	2769811	2.5
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	12	2769811	0.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	4638	2769811	167.4
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7526	20849037	36.1
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Black or African American"	"2054-5"	"Suicide"	"2"	1045	20849037	5.0
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Black or African American"	"2054-5"	"Homicide"	"3"	4019	20849037	19.3
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Black or African American"	"2054-5"	"Undetermined "	"4"	409	20849037	2.0
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	51	20849037	0.2
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	147638	20849037	708.1
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"White"	"2106-3"	"Unintentional"	"1"	38931	81273753	47.9
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"White"	"2106-3"	"Suicide"	"2"	11309	81273753	13.9
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"White"	"2106-3"	"Homicide"	"3"	3456	81273753	4.3
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"White"	"2106-3"	"Undetermined "	"4"	1401	81273753	1.7
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	103	81273753	0.1
+	"Census Region 3: South"	"CENS-R3"	"2004"	"2004"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	678484	81273753	834.8
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	353	1030896	34.2
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	87	1030896	8.4
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	63	1030896	6.1
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	14	1030896	1.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3431	1030896	332.8
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	424	2928770	14.5
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	122	2928770	4.2
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	123	2928770	4.2
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	15	2928770	0.5 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	5318	2928770	181.6
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Black or African American"	"2054-5"	"Unintentional"	"1"	8039	21226139	37.9
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Black or African American"	"2054-5"	"Suicide"	"2"	1109	21226139	5.2
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Black or African American"	"2054-5"	"Homicide"	"3"	4270	21226139	20.1
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Black or African American"	"2054-5"	"Undetermined "	"4"	428	21226139	2.0
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	56	21226139	0.3
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	150260	21226139	707.9
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"White"	"2106-3"	"Unintentional"	"1"	40550	82293966	49.3
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"White"	"2106-3"	"Suicide"	"2"	11346	82293966	13.8
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"White"	"2106-3"	"Homicide"	"3"	3513	82293966	4.3
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"White"	"2106-3"	"Undetermined "	"4"	1464	82293966	1.8
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	117	82293966	0.1
+	"Census Region 3: South"	"CENS-R3"	"2005"	"2005"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	694067	82293966	843.4
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	428	1074811	39.8
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	71	1074811	6.6
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	57	1074811	5.3
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	10	1074811	0.9 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3427	1074811	318.8
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	428	3092497	13.8
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	162	3092497	5.2
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	114	3092497	3.7
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	13	3092497	0.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	5603	3092497	181.2
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7916	21605896	36.6
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Black or African American"	"2054-5"	"Suicide"	"2"	1008	21605896	4.7
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Black or African American"	"2054-5"	"Homicide"	"3"	4397	21605896	20.4
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Black or African American"	"2054-5"	"Undetermined "	"4"	468	21605896	2.2
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	66	21605896	0.3
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	149155	21605896	690.3
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"White"	"2106-3"	"Unintentional"	"1"	41515	83303729	49.8
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"White"	"2106-3"	"Suicide"	"2"	11666	83303729	14.0
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"White"	"2106-3"	"Homicide"	"3"	3543	83303729	4.3
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"White"	"2106-3"	"Undetermined "	"4"	1624	83303729	1.9
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	122	83303729	0.1
+	"Census Region 3: South"	"CENS-R3"	"2006"	"2006"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	687050	83303729	824.8
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	404	1121150	36.0
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	77	1121150	6.9
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	62	1121150	5.5
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	12	1121150	1.1 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3454	1121150	308.1
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	449	3253538	13.8
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	190	3253538	5.8
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	88	3253538	2.7
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	12	3253538	0.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	5797	3253538	178.2
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7751	22011801	35.2
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Black or African American"	"2054-5"	"Suicide"	"2"	1037	22011801	4.7
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Black or African American"	"2054-5"	"Homicide"	"3"	4564	22011801	20.7
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Black or African American"	"2054-5"	"Undetermined "	"4"	453	22011801	2.1
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	63	22011801	0.3
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	149032	22011801	677.1
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"White"	"2106-3"	"Unintentional"	"1"	42805	84302253	50.8
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"White"	"2106-3"	"Suicide"	"2"	12085	84302253	14.3
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"White"	"2106-3"	"Homicide"	"3"	3793	84302253	4.5
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"White"	"2106-3"	"Undetermined "	"4"	1764	84302253	2.1
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	98	84302253	0.1
+	"Census Region 3: South"	"CENS-R3"	"2007"	"2007"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	690368	84302253	818.9
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	392	1169791	33.5
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	72	1169791	6.2
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	58	1169791	5.0
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3589	1169791	306.8
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	420	3409532	12.3
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	186	3409532	5.5
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	81	3409532	2.4
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	12	3409532	0.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	6156	3409532	180.6
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7121	22398113	31.8
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Black or African American"	"2054-5"	"Suicide"	"2"	1117	22398113	5.0
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Black or African American"	"2054-5"	"Homicide"	"3"	4119	22398113	18.4
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Black or African American"	"2054-5"	"Undetermined "	"4"	370	22398113	1.7
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	74	22398113	0.3
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	150215	22398113	670.7
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"White"	"2106-3"	"Unintentional"	"1"	42453	85207494	49.8
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"White"	"2106-3"	"Suicide"	"2"	12645	85207494	14.8
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"White"	"2106-3"	"Homicide"	"3"	3949	85207494	4.6
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"White"	"2106-3"	"Undetermined "	"4"	1664	85207494	2.0
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	81	85207494	0.1
+	"Census Region 3: South"	"CENS-R3"	"2008"	"2008"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	709750	85207494	833.0
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	361	1219511	29.6
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	78	1219511	6.4
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	58	1219511	4.8
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	10	1219511	0.8 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3606	1219511	295.7
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	417	3559146	11.7
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	198	3559146	5.6
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	94	3559146	2.6
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	6536	3559146	183.6
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7044	22754145	31.0
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Black or African American"	"2054-5"	"Suicide"	"2"	1161	22754145	5.1
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Black or African American"	"2054-5"	"Homicide"	"3"	3997	22754145	17.6
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Black or African American"	"2054-5"	"Undetermined "	"4"	395	22754145	1.7
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	55	22754145	0.2
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	149964	22754145	659.1
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"White"	"2106-3"	"Unintentional"	"1"	41440	86015813	48.2
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"White"	"2106-3"	"Suicide"	"2"	13132	86015813	15.3
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"White"	"2106-3"	"Homicide"	"3"	3590	86015813	4.2
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"White"	"2106-3"	"Undetermined "	"4"	1668	86015813	1.9
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	107	86015813	0.1
+	"Census Region 3: South"	"CENS-R3"	"2009"	"2009"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	702748	86015813	817.0
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	412	1258308	32.7
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	91	1258308	7.2
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	60	1258308	4.8
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	14	1258308	1.1 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3727	1258308	296.2
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	428	3672418	11.7
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	200	3672418	5.4
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	94	3672418	2.6
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	17	3672418	0.5 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	6961	3672418	189.5
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Black or African American"	"2054-5"	"Unintentional"	"1"	6972	23012835	30.3
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Black or African American"	"2054-5"	"Suicide"	"2"	1125	23012835	4.9
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Black or African American"	"2054-5"	"Homicide"	"3"	3771	23012835	16.4
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Black or African American"	"2054-5"	"Undetermined "	"4"	339	23012835	1.5
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	41	23012835	0.2
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	150097	23012835	652.2
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"White"	"2106-3"	"Unintentional"	"1"	42212	86612183	48.7
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"White"	"2106-3"	"Suicide"	"2"	13362	86612183	15.4
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"White"	"2106-3"	"Homicide"	"3"	3357	86612183	3.9
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"White"	"2106-3"	"Undetermined "	"4"	1603	86612183	1.9
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	90	86612183	0.1
+	"Census Region 3: South"	"CENS-R3"	"2010"	"2010"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	717679	86612183	828.6
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	398	1279845	31.1
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	97	1279845	7.6
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	66	1279845	5.2
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	16	1279845	1.3 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3909	1279845	305.4
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	472	3863689	12.2
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	201	3863689	5.2
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	102	3863689	2.6
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	13	3863689	0.3 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	7289	3863689	188.7
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7125	23426346	30.4
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Black or African American"	"2054-5"	"Suicide"	"2"	1183	23426346	5.0
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Black or African American"	"2054-5"	"Homicide"	"3"	3861	23426346	16.5
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Black or African American"	"2054-5"	"Undetermined "	"4"	307	23426346	1.3
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	65	23426346	0.3
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	150448	23426346	642.2
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"White"	"2106-3"	"Unintentional"	"1"	43357	87491921	49.6
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"White"	"2106-3"	"Suicide"	"2"	13784	87491921	15.8
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"White"	"2106-3"	"Homicide"	"3"	3252	87491921	3.7
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"White"	"2106-3"	"Undetermined "	"4"	1476	87491921	1.7
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	103	87491921	0.1
+	"Census Region 3: South"	"CENS-R3"	"2011"	"2011"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	725988	87491921	829.8
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	424	1299659	32.6
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	79	1299659	6.1
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	67	1299659	5.2
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	19	1299659	1.5 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	3972	1299659	305.6
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	452	4024855	11.2
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	262	4024855	6.5
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	94	4024855	2.3
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	16	4024855	0.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	7891	4024855	196.1
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7254	23755880	30.5
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Black or African American"	"2054-5"	"Suicide"	"2"	1250	23755880	5.3
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Black or African American"	"2054-5"	"Homicide"	"3"	4108	23755880	17.3
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Black or African American"	"2054-5"	"Undetermined "	"4"	338	23755880	1.4
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	66	23755880	0.3
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	153777	23755880	647.3
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"White"	"2106-3"	"Unintentional"	"1"	43254	88218777	49.0
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"White"	"2106-3"	"Suicide"	"2"	14267	88218777	16.2
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"White"	"2106-3"	"Homicide"	"3"	3305	88218777	3.7
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"White"	"2106-3"	"Undetermined "	"4"	1560	88218777	1.8
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	137	88218777	0.2
+	"Census Region 3: South"	"CENS-R3"	"2012"	"2012"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	741105	88218777	840.1
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	434	1319052	32.9
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	98	1319052	7.4
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	51	1319052	3.9
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	10	1319052	0.8 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	4095	1319052	310.5
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	523	4186464	12.5
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	237	4186464	5.7
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	73	4186464	1.7
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	16	4186464	0.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	8747	4186464	208.9
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7479	24067061	31.1
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Black or African American"	"2054-5"	"Suicide"	"2"	1221	24067061	5.1
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Black or African American"	"2054-5"	"Homicide"	"3"	4089	24067061	17.0
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Black or African American"	"2054-5"	"Undetermined "	"4"	364	24067061	1.5
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	70	24067061	0.3
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	158643	24067061	659.2
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"White"	"2106-3"	"Unintentional"	"1"	42993	88851743	48.4
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"White"	"2106-3"	"Suicide"	"2"	14351	88851743	16.2
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"White"	"2106-3"	"Homicide"	"3"	3120	88851743	3.5
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"White"	"2106-3"	"Undetermined "	"4"	1520	88851743	1.7
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	121	88851743	0.1
+	"Census Region 3: South"	"CENS-R3"	"2013"	"2013"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	758118	88851743	853.2
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	454	1339742	33.9
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	120	1339742	9.0
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	61	1339742	4.6
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	16	1339742	1.2 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	4358	1339742	325.3
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	568	4361029	13.0
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	238	4361029	5.5
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	97	4361029	2.2
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	12	4361029	0.3 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	9343	4361029	214.2
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Black or African American"	"2054-5"	"Unintentional"	"1"	7890	24399302	32.3
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Black or African American"	"2054-5"	"Suicide"	"2"	1344	24399302	5.5
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Black or African American"	"2054-5"	"Homicide"	"3"	4065	24399302	16.7
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Black or African American"	"2054-5"	"Undetermined "	"4"	447	24399302	1.8
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	68	24399302	0.3
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	161565	24399302	662.2
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"White"	"2106-3"	"Unintentional"	"1"	44746	89596238	49.9
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"White"	"2106-3"	"Suicide"	"2"	15003	89596238	16.7
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"White"	"2106-3"	"Homicide"	"3"	3211	89596238	3.6
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"White"	"2106-3"	"Undetermined "	"4"	1545	89596238	1.7
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	106	89596238	0.1
+	"Census Region 3: South"	"CENS-R3"	"2014"	"2014"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	770019	89596238	859.4
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	420	1362279	30.8
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	123	1362279	9.0
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	67	1362279	4.9
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	15	1362279	1.1 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	4782	1362279	351.0
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	594	4548620	13.1
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	296	4548620	6.5
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	104	4548620	2.3
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	19	4548620	0.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	10118	4548620	222.4
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Black or African American"	"2054-5"	"Unintentional"	"1"	8835	24738413	35.7
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Black or African American"	"2054-5"	"Suicide"	"2"	1354	24738413	5.5
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Black or African American"	"2054-5"	"Homicide"	"3"	4821	24738413	19.5
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Black or African American"	"2054-5"	"Undetermined "	"4"	488	24738413	2.0
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	61	24738413	0.2
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	166915	24738413	674.7
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"White"	"2106-3"	"Unintentional"	"1"	48078	90389894	53.2
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"White"	"2106-3"	"Suicide"	"2"	15581	90389894	17.2
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"White"	"2106-3"	"Homicide"	"3"	3402	90389894	3.8
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"White"	"2106-3"	"Undetermined "	"4"	1637	90389894	1.8
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	121	90389894	0.1
+	"Census Region 3: South"	"CENS-R3"	"2015"	"2015"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	790442	90389894	874.5
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	507	1383370	36.6
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	131	1383370	9.5
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	89	1383370	6.4
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	19	1383370	1.4 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	4698	1383370	339.6
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	710	4729496	15.0
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	318	4729496	6.7
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	111	4729496	2.3
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	32	4729496	0.7
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	10849	4729496	229.4
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Black or African American"	"2054-5"	"Unintentional"	"1"	10151	25065417	40.5
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Black or African American"	"2054-5"	"Suicide"	"2"	1474	25065417	5.9
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Black or African American"	"2054-5"	"Homicide"	"3"	5263	25065417	21.0
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Black or African American"	"2054-5"	"Undetermined "	"4"	677	25065417	2.7
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	63	25065417	0.3
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	171034	25065417	682.4
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"White"	"2106-3"	"Unintentional"	"1"	52417	91141291	57.5
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"White"	"2106-3"	"Suicide"	"2"	15670	91141291	17.2
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"White"	"2106-3"	"Homicide"	"3"	3771	91141291	4.1
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"White"	"2106-3"	"Undetermined "	"4"	2093	91141291	2.3
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	149	91141291	0.2
+	"Census Region 3: South"	"CENS-R3"	"2016"	"2016"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	796241	91141291	873.6
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	815	1389136	58.7
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	196	1389136	14.1
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	146	1389136	10.5
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	36	1389136	2.6
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	4603	1389136	331.4
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	926	5805449	16.0
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	394	5805449	6.8
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	204	5805449	3.5
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	24	5805449	0.4
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	21231	5805449	365.7
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1023	3430538	29.8
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Black or African American"	"2054-5"	"Suicide"	"2"	228	3430538	6.6
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Black or African American"	"2054-5"	"Homicide"	"3"	703	3430538	20.5
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Black or African American"	"2054-5"	"Undetermined "	"4"	49	3430538	1.4
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	21	3430538	0.6
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	20951	3430538	610.7
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"White"	"2106-3"	"Unintentional"	"1"	17512	51806749	33.8
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"White"	"2106-3"	"Suicide"	"2"	6570	51806749	12.7
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"White"	"2106-3"	"Homicide"	"3"	2530	51806749	4.9
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"White"	"2106-3"	"Undetermined "	"4"	792	51806749	1.5
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	110	51806749	0.2
+	"Census Region 4: West"	"CENS-R4"	"1999"	"1999"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	364295	51806749	703.2
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	848	1433503	59.2
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	186	1433503	13.0
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	105	1433503	7.3
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	29	1433503	2.0
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	4679	1433503	326.4
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1008	5937867	17.0
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	378	5937867	6.4
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	175	5937867	2.9
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	30	5937867	0.5
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	21815	5937867	367.4
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Black or African American"	"2054-5"	"Unintentional"	"1"	968	3476738	27.8
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Black or African American"	"2054-5"	"Suicide"	"2"	208	3476738	6.0
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Black or African American"	"2054-5"	"Homicide"	"3"	769	3476738	22.1
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Black or African American"	"2054-5"	"Undetermined "	"4"	50	3476738	1.4
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	12	3476738	0.3 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	20716	3476738	595.8
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"White"	"2106-3"	"Unintentional"	"1"	17412	52349824	33.3
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"White"	"2106-3"	"Suicide"	"2"	6521	52349824	12.5
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"White"	"2106-3"	"Homicide"	"3"	2354	52349824	4.5
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"White"	"2106-3"	"Undetermined "	"4"	728	52349824	1.4
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	87	52349824	0.2
+	"Census Region 4: West"	"CENS-R4"	"2000"	"2000"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	365579	52349824	698.3
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	809	1480801	54.6
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	190	1480801	12.8
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	129	1480801	8.7
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	24	1480801	1.6
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	5084	1480801	343.3
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1035	6222283	16.6
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	366	6222283	5.9
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	187	6222283	3.0
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	32	6222283	0.5
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	22959	6222283	369.0
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Black or African American"	"2054-5"	"Unintentional"	"1"	983	3558277	27.6
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Black or African American"	"2054-5"	"Suicide"	"2"	195	3558277	5.5
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Black or African American"	"2054-5"	"Homicide"	"3"	800	3558277	22.5
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Black or African American"	"2054-5"	"Undetermined "	"4"	23	3558277	0.6
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	15	3558277	0.4 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	21443	3558277	602.6
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"White"	"2106-3"	"Unintentional"	"1"	17312	53165966	32.6
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"White"	"2106-3"	"Suicide"	"2"	6562	53165966	12.3
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"White"	"2106-3"	"Homicide"	"3"	2608	53165966	4.9
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"White"	"2106-3"	"Undetermined "	"4"	706	53165966	1.3
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	116	53165966	0.2
+	"Census Region 4: West"	"CENS-R4"	"2001"	"2001"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	373098	53165966	701.8
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	897	1521720	58.9
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	206	1521720	13.5
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	171	1521720	11.2
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	28	1521720	1.8
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	5013	1521720	329.4
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1066	6430458	16.6
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	389	6430458	6.0
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	206	6430458	3.2
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	37	6430458	0.6
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	23733	6430458	369.1
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1161	3618474	32.1
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Black or African American"	"2054-5"	"Suicide"	"2"	240	3618474	6.6
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Black or African American"	"2054-5"	"Homicide"	"3"	946	3618474	26.1
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Black or African American"	"2054-5"	"Undetermined "	"4"	61	3618474	1.7
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	12	3618474	0.3 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	21474	3618474	593.5
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"White"	"2106-3"	"Unintentional"	"1"	19814	53741546	36.9
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"White"	"2106-3"	"Suicide"	"2"	7190	53741546	13.4
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"White"	"2106-3"	"Homicide"	"3"	2715	53741546	5.1
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"White"	"2106-3"	"Undetermined "	"4"	943	53741546	1.8
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	93	53741546	0.2
+	"Census Region 4: West"	"CENS-R4"	"2002"	"2002"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	375460	53741546	698.6
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	977	1566522	62.4
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	206	1566522	13.2
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	153	1566522	9.8
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	42	1566522	2.7
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	5404	1566522	345.0
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1156	6632185	17.4
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	399	6632185	6.0
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	211	6632185	3.2
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	40	6632185	0.6
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	24651	6632185	371.7
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1137	3667794	31.0
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Black or African American"	"2054-5"	"Suicide"	"2"	228	3667794	6.2
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Black or African American"	"2054-5"	"Homicide"	"3"	944	3667794	25.7
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Black or African American"	"2054-5"	"Undetermined "	"4"	52	3667794	1.4
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	23	3667794	0.6
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	22052	3667794	601.2
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"White"	"2106-3"	"Unintentional"	"1"	20316	54249837	37.4
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"White"	"2106-3"	"Suicide"	"2"	7401	54249837	13.6
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"White"	"2106-3"	"Homicide"	"3"	2739	54249837	5.0
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"White"	"2106-3"	"Undetermined "	"4"	1065	54249837	2.0
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	113	54249837	0.2
+	"Census Region 4: West"	"CENS-R4"	"2003"	"2003"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	381034	54249837	702.4
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	882	1615912	54.6
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	242	1615912	15.0
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	133	1615912	8.2
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	39	1615912	2.4
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	5199	1615912	321.7
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1146	6835474	16.8
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	432	6835474	6.3
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	201	6835474	2.9
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	34	6835474	0.5
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Legal Intervention / Operations of War"	"5"	12	6835474	0.2 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	24730	6835474	361.8
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1177	3729078	31.6
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Black or African American"	"2054-5"	"Suicide"	"2"	243	3729078	6.5
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Black or African American"	"2054-5"	"Homicide"	"3"	981	3729078	26.3
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Black or African American"	"2054-5"	"Undetermined "	"4"	70	3729078	1.9
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	18	3729078	0.5 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	21528	3729078	577.3
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"White"	"2106-3"	"Unintentional"	"1"	20821	54785019	38.0
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"White"	"2106-3"	"Suicide"	"2"	7456	54785019	13.6
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"White"	"2106-3"	"Homicide"	"3"	2783	54785019	5.1
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"White"	"2106-3"	"Undetermined "	"4"	983	54785019	1.8
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	123	54785019	0.2
+	"Census Region 4: West"	"CENS-R4"	"2004"	"2004"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	369593	54785019	674.6
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	945	1669868	56.6
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	211	1669868	12.6
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	133	1669868	8.0
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	37	1669868	2.2
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	5482	1669868	328.3
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1233	7048006	17.5
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	392	7048006	5.6
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	211	7048006	3.0
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	44	7048006	0.6
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	25881	7048006	367.2
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1371	3789235	36.2
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Black or African American"	"2054-5"	"Suicide"	"2"	215	3789235	5.7
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Black or African American"	"2054-5"	"Homicide"	"3"	982	3789235	25.9
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Black or African American"	"2054-5"	"Undetermined "	"4"	58	3789235	1.5
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	23	3789235	0.6
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	22304	3789235	588.6
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"White"	"2106-3"	"Unintentional"	"1"	21984	55326617	39.7
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"White"	"2106-3"	"Suicide"	"2"	7447	55326617	13.5
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"White"	"2106-3"	"Homicide"	"3"	2822	55326617	5.1
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"White"	"2106-3"	"Undetermined "	"4"	1144	55326617	2.1
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	141	55326617	0.3
+	"Census Region 4: West"	"CENS-R4"	"2005"	"2005"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	379645	55326617	686.2
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	941	1726231	54.5
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	233	1726231	13.5
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	155	1726231	9.0
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	60	1726231	3.5
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	5487	1726231	317.9
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1222	7265050	16.8
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	443	7265050	6.1
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	240	7265050	3.3
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	63	7265050	0.9
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	26945	7265050	370.9
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1369	3860858	35.5
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Black or African American"	"2054-5"	"Suicide"	"2"	235	3860858	6.1
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Black or African American"	"2054-5"	"Homicide"	"3"	980	3860858	25.4
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Black or African American"	"2054-5"	"Undetermined "	"4"	46	3860858	1.2
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	24	3860858	0.6
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	22056	3860858	571.3
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"White"	"2106-3"	"Unintentional"	"1"	22783	55899626	40.8
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"White"	"2106-3"	"Suicide"	"2"	7502	55899626	13.4
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"White"	"2106-3"	"Homicide"	"3"	2864	55899626	5.1
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"White"	"2106-3"	"Undetermined "	"4"	1188	55899626	2.1
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	141	55899626	0.3
+	"Census Region 4: West"	"CENS-R4"	"2006"	"2006"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	379636	55899626	679.1
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	986	1787807	55.2
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	227	1787807	12.7
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	132	1787807	7.4
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	58	1787807	3.2
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	5805	1787807	324.7
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1255	7474031	16.8
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	496	7474031	6.6
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	184	7474031	2.5
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	47	7474031	0.6
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	27277	7474031	365.0
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1335	3924741	34.0
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Black or African American"	"2054-5"	"Suicide"	"2"	264	3924741	6.7
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Black or African American"	"2054-5"	"Homicide"	"3"	899	3924741	22.9
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Black or African American"	"2054-5"	"Undetermined "	"4"	73	3924741	1.9
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	27	3924741	0.7
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	22077	3924741	562.5
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"White"	"2106-3"	"Unintentional"	"1"	23268	56408835	41.2
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"White"	"2106-3"	"Suicide"	"2"	7953	56408835	14.1
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"White"	"2106-3"	"Homicide"	"3"	2723	56408835	4.8
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"White"	"2106-3"	"Undetermined "	"4"	1213	56408835	2.2
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	130	56408835	0.2
+	"Census Region 4: West"	"CENS-R4"	"2007"	"2007"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	376541	56408835	667.5
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	1008	1855317	54.3
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	255	1855317	13.7
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	158	1855317	8.5
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	48	1855317	2.6
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	6042	1855317	325.7
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1151	7690251	15.0
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	479	7690251	6.2
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	188	7690251	2.4
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	38	7690251	0.5
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	28730	7690251	373.6
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1232	4000022	30.8
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Black or African American"	"2054-5"	"Suicide"	"2"	276	4000022	6.9
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Black or African American"	"2054-5"	"Homicide"	"3"	826	4000022	20.6
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Black or African American"	"2054-5"	"Undetermined "	"4"	57	4000022	1.4
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	16	4000022	0.4 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	22163	4000022	554.1
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"White"	"2106-3"	"Unintentional"	"1"	22610	56963585	39.7
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"White"	"2106-3"	"Suicide"	"2"	8219	56963585	14.4
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"White"	"2106-3"	"Homicide"	"3"	2601	56963585	4.6
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"White"	"2106-3"	"Undetermined "	"4"	1072	56963585	1.9
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	116	56963585	0.2
+	"Census Region 4: West"	"CENS-R4"	"2008"	"2008"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	381637	56963585	670.0
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	1022	1924884	53.1
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	258	1924884	13.4
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	151	1924884	7.8
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	58	1924884	3.0
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	6214	1924884	322.8
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1153	7895091	14.6
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	551	7895091	7.0
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	167	7895091	2.1
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	51	7895091	0.6
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	29163	7895091	369.4
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1144	4078603	28.0
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Black or African American"	"2054-5"	"Suicide"	"2"	260	4078603	6.4
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Black or African American"	"2054-5"	"Homicide"	"3"	742	4078603	18.2
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Black or African American"	"2054-5"	"Undetermined "	"4"	57	4078603	1.4
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	20	4078603	0.5
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	22134	4078603	542.7
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"White"	"2106-3"	"Unintentional"	"1"	22467	57442798	39.1
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"White"	"2106-3"	"Suicide"	"2"	8602	57442798	15.0
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"White"	"2106-3"	"Homicide"	"3"	2443	57442798	4.3
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"White"	"2106-3"	"Undetermined "	"4"	1051	57442798	1.8
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	116	57442798	0.2
+	"Census Region 4: West"	"CENS-R4"	"2009"	"2009"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	378443	57442798	658.8
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	970	1978119	49.0
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	276	1978119	14.0
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	153	1978119	7.7
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	54	1978119	2.7
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	6449	1978119	326.0
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1204	8049437	15.0
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	580	8049437	7.2
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	174	8049437	2.2
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	46	8049437	0.6
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	29999	8049437	372.7
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1163	4134533	28.1
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Black or African American"	"2054-5"	"Suicide"	"2"	278	4134533	6.7
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Black or African American"	"2054-5"	"Homicide"	"3"	735	4134533	17.8
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Black or African American"	"2054-5"	"Undetermined "	"4"	42	4134533	1.0
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	18	4134533	0.4 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	21975	4134533	531.5
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"White"	"2106-3"	"Unintentional"	"1"	22034	57783464	38.1
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"White"	"2106-3"	"Suicide"	"2"	8831	57783464	15.3
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"White"	"2106-3"	"Homicide"	"3"	2275	57783464	3.9
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"White"	"2106-3"	"Undetermined "	"4"	1019	57783464	1.8
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	139	57783464	0.2
+	"Census Region 4: West"	"CENS-R4"	"2010"	"2010"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	382214	57783464	661.5
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	1064	2008732	53.0
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	273	2008732	13.6
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	148	2008732	7.4
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	49	2008732	2.4
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	6523	2008732	324.7
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1292	8273651	15.6
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	584	8273651	7.1
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	181	8273651	2.2
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	57	8273651	0.7
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Legal Intervention / Operations of War"	"5"	12	8273651	0.1 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	31064	8273651	375.5
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1210	4203572	28.8
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Black or African American"	"2054-5"	"Suicide"	"2"	290	4203572	6.9
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Black or African American"	"2054-5"	"Homicide"	"3"	717	4203572	17.1
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Black or African American"	"2054-5"	"Undetermined "	"4"	58	4203572	1.4
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	17	4203572	0.4 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	22870	4203572	544.1
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"White"	"2106-3"	"Unintentional"	"1"	23202	58329505	39.8
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"White"	"2106-3"	"Suicide"	"2"	9006	58329505	15.4
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"White"	"2106-3"	"Homicide"	"3"	2220	58329505	3.8
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"White"	"2106-3"	"Undetermined "	"4"	985	58329505	1.7
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	151	58329505	0.3
+	"Census Region 4: West"	"CENS-R4"	"2011"	"2011"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	392747	58329505	673.3
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	1126	2033939	55.4
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	319	2033939	15.7
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	152	2033939	7.5
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	69	2033939	3.4
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	6734	2033939	331.1
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1341	8463088	15.8
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	577	8463088	6.8
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	182	8463088	2.2
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	52	8463088	0.6
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	32618	8463088	385.4
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1198	4270417	28.1
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Black or African American"	"2054-5"	"Suicide"	"2"	319	4270417	7.5
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Black or African American"	"2054-5"	"Homicide"	"3"	768	4270417	18.0
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Black or African American"	"2054-5"	"Undetermined "	"4"	55	4270417	1.3
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	19	4270417	0.4 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	23185	4270417	542.9
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"White"	"2106-3"	"Unintentional"	"1"	23172	58770385	39.4
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"White"	"2106-3"	"Suicide"	"2"	9223	58770385	15.7
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"White"	"2106-3"	"Homicide"	"3"	2284	58770385	3.9
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"White"	"2106-3"	"Undetermined "	"4"	1005	58770385	1.7
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	180	58770385	0.3
+	"Census Region 4: West"	"CENS-R4"	"2012"	"2012"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	396316	58770385	674.3
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	1060	2058823	51.5
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	319	2058823	15.5
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	142	2058823	6.9
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	51	2058823	2.5
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	7152	2058823	347.4
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1373	8667485	15.8
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	562	8667485	6.5
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	143	8667485	1.6
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	34	8667485	0.4
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	34253	8667485	395.2
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1276	4326615	29.5
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Black or African American"	"2054-5"	"Suicide"	"2"	308	4326615	7.1
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Black or African American"	"2054-5"	"Homicide"	"3"	747	4326615	17.3
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Black or African American"	"2054-5"	"Undetermined "	"4"	53	4326615	1.2
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	22	4326615	0.5
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	23806	4326615	550.2
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"White"	"2106-3"	"Unintentional"	"1"	24257	59194946	41.0
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"White"	"2106-3"	"Suicide"	"2"	9304	59194946	15.7
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"White"	"2106-3"	"Homicide"	"3"	2221	59194946	3.8
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"White"	"2106-3"	"Undetermined "	"4"	932	59194946	1.6
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	155	59194946	0.3
+	"Census Region 4: West"	"CENS-R4"	"2013"	"2013"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	405231	59194946	684.6
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	1185	2085325	56.8
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	269	2085325	12.9
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	155	2085325	7.4
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	37	2085325	1.8
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	7516	2085325	360.4
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1449	8884489	16.3
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	638	8884489	7.2
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	135	8884489	1.5
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	33	8884489	0.4
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	34497	8884489	388.3
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1424	4391582	32.4
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Black or African American"	"2054-5"	"Suicide"	"2"	290	4391582	6.6
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Black or African American"	"2054-5"	"Homicide"	"3"	740	4391582	16.9
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Black or African American"	"2054-5"	"Undetermined "	"4"	44	4391582	1.0
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	15	4391582	0.3 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	24008	4391582	546.7
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"White"	"2106-3"	"Unintentional"	"1"	24814	59662590	41.6
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"White"	"2106-3"	"Suicide"	"2"	9888	59662590	16.6
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"White"	"2106-3"	"Homicide"	"3"	2121	59662590	3.6
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"White"	"2106-3"	"Undetermined "	"4"	842	59662590	1.4
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	175	59662590	0.3
+	"Census Region 4: West"	"CENS-R4"	"2014"	"2014"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	406309	59662590	681.0
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	1224	2109976	58.0
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	319	2109976	15.1
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	163	2109976	7.7
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	54	2109976	2.6
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	7903	2109976	374.6
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1649	9116978	18.1
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	678	9116978	7.4
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	152	9116978	1.7
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	34	9116978	0.4
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Legal Intervention / Operations of War"	"5"	15	9116978	0.2 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	37455	9116978	410.8
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1569	4463351	35.2
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Black or African American"	"2054-5"	"Suicide"	"2"	317	4463351	7.1
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Black or African American"	"2054-5"	"Homicide"	"3"	832	4463351	18.6
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Black or African American"	"2054-5"	"Undetermined "	"4"	46	4463351	1.0
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	23	4463351	0.5
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	25533	4463351	572.1
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"White"	"2106-3"	"Unintentional"	"1"	26257	60143983	43.7
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"White"	"2106-3"	"Suicide"	"2"	9999	60143983	16.6
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"White"	"2106-3"	"Homicide"	"3"	2376	60143983	4.0
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"White"	"2106-3"	"Undetermined "	"4"	860	60143983	1.4
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	169	60143983	0.3
+	"Census Region 4: West"	"CENS-R4"	"2015"	"2015"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	423534	60143983	704.2
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Unintentional"	"1"	1256	2135708	58.8
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Suicide"	"2"	347	2135708	16.2
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Homicide"	"3"	174	2135708	8.1
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Undetermined "	"4"	66	2135708	3.1
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Legal Intervention / Operations of War"	"5"	15	2135708	0.7 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"American Indian or Alaska Native"	"1002-5"	"Non-Injury, no intent classified"	"9"	8270	2135708	387.2
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Unintentional"	"1"	1751	9347940	18.7
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Suicide"	"2"	711	9347940	7.6
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Homicide"	"3"	212	9347940	2.3
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Undetermined "	"4"	48	9347940	0.5
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Legal Intervention / Operations of War"	"5"	11	9347940	0.1 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Asian or Pacific Islander"	"A-PI"	"Non-Injury, no intent classified"	"9"	38513	9347940	412.0
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Black or African American"	"2054-5"	"Unintentional"	"1"	1722	4542277	37.9
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Black or African American"	"2054-5"	"Suicide"	"2"	363	4542277	8.0
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Black or African American"	"2054-5"	"Homicide"	"3"	881	4542277	19.4
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Black or African American"	"2054-5"	"Undetermined "	"4"	42	4542277	0.9
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Black or African American"	"2054-5"	"Legal Intervention / Operations of War"	"5"	15	4542277	0.3 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"Black or African American"	"2054-5"	"Non-Injury, no intent classified"	"9"	26124	4542277	575.1
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"White"	"2106-3"	"Unintentional"	"1"	27655	60631075	45.6
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"White"	"2106-3"	"Suicide"	"2"	10095	60631075	16.6
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"White"	"2106-3"	"Homicide"	"3"	2465	60631075	4.1
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"White"	"2106-3"	"Undetermined "	"4"	818	60631075	1.3
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"White"	"2106-3"	"Legal Intervention / Operations of War"	"5"	159	60631075	0.3
+	"Census Region 4: West"	"CENS-R4"	"2016"	"2016"	"White"	"2106-3"	"Non-Injury, no intent classified"	"9"	428829	60631075	707.3
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Title: Mortality and Race By Year Whole USA"
+"Group By: Census Region; Year; Race; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Oct 27, 2019 11:38:50 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No."
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Oct 27, 2019 11:38:50 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Due to confidentiality constraints, sub-national death counts and rates are suppressed when the number of deaths is less than"
+"10. Figures representing infant deaths and births have additional constraints for national and local data. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Racial Differences."
+"6. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"7. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"8. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"9. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."
