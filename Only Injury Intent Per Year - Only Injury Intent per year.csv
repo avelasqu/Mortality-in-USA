@@ -1,0 +1,154 @@
+Notes,Injury Intent,Injury Intent Code,Year,Year Code,Deaths,Population,Crude Rate
+,Unintentional,1,1999,1999,97860,279040168,35.1
+,Unintentional,1,2000,2000,97900,281421906,34.8
+,Unintentional,1,2001,2001,101537,284968955,35.6
+,Unintentional,1,2002,2002,106742,287625193,37.1
+,Unintentional,1,2003,2003,109277,290107933,37.7
+,Unintentional,1,2004,2004,112012,292805298,38.3
+,Unintentional,1,2005,2005,117809,295516599,39.9
+,Unintentional,1,2006,2006,121599,298379912,40.8
+,Unintentional,1,2007,2007,123706,301231207,41.1
+,Unintentional,1,2008,2008,121902,304093966,40.1
+,Unintentional,1,2009,2009,118021,306771529,38.5
+,Unintentional,1,2010,2010,120859,308745538,39.1
+,Unintentional,1,2011,2011,126438,311591917,40.6
+,Unintentional,1,2012,2012,127792,313914040,40.7
+,Unintentional,1,2013,2013,130557,316128839,41.3
+,Unintentional,1,2014,2014,135928,318857056,42.6
+,Unintentional,1,2015,2015,146571,321418820,45.6
+,Unintentional,1,2016,2016,161374,323127513,49.9
+,Suicide,2,1999,1999,29199,279040168,10.5
+,Suicide,2,2000,2000,29350,281421906,10.4
+,Suicide,2,2001,2001,30622,284968955,10.7
+,Suicide,2,2002,2002,31655,287625193,11
+,Suicide,2,2003,2003,31484,290107933,10.9
+,Suicide,2,2004,2004,32439,292805298,11.1
+,Suicide,2,2005,2005,32637,295516599,11
+,Suicide,2,2006,2006,33300,298379912,11.2
+,Suicide,2,2007,2007,34598,301231207,11.5
+,Suicide,2,2008,2008,36035,304093966,11.8
+,Suicide,2,2009,2009,36909,306771529,12
+,Suicide,2,2010,2010,38364,308745538,12.4
+,Suicide,2,2011,2011,39518,311591917,12.7
+,Suicide,2,2012,2012,40600,313914040,12.9
+,Suicide,2,2013,2013,41149,316128839,13
+,Suicide,2,2014,2014,42826,318857056,13.4
+,Suicide,2,2015,2015,44193,321418820,13.7
+,Suicide,2,2016,2016,44965,323127513,13.9
+,Homicide,3,1999,1999,16889,279040168,6.1
+,Homicide,3,2000,2000,16765,281421906,6
+,Homicide,3,2001,2001,20308,284968955,7.1
+,Homicide,3,2002,2002,17638,287625193,6.1
+,Homicide,3,2003,2003,17732,290107933,6.1
+,Homicide,3,2004,2004,17357,292805298,5.9
+,Homicide,3,2005,2005,18124,295516599,6.1
+,Homicide,3,2006,2006,18573,298379912,6.2
+,Homicide,3,2007,2007,18361,301231207,6.1
+,Homicide,3,2008,2008,17826,304093966,5.9
+,Homicide,3,2009,2009,16799,306771529,5.5
+,Homicide,3,2010,2010,16259,308745538,5.3
+,Homicide,3,2011,2011,16238,311591917,5.2
+,Homicide,3,2012,2012,16688,313914040,5.3
+,Homicide,3,2013,2013,16121,316128839,5.1
+,Homicide,3,2014,2014,15872,318857056,5
+,Homicide,3,2015,2015,17793,321418820,5.5
+,Homicide,3,2016,2016,19362,323127513,6
+,Undetermined ,4,1999,1999,3917,279040168,1.4
+,Undetermined ,4,2000,2000,3819,281421906,1.4
+,Undetermined ,4,2001,2001,4198,284968955,1.5
+,Undetermined ,4,2002,2002,4830,287625193,1.7
+,Undetermined ,4,2003,2003,5072,290107933,1.7
+,Undetermined ,4,2004,2004,4976,292805298,1.7
+,Undetermined ,4,2005,2005,4742,295516599,1.6
+,Undetermined ,4,2006,2006,5131,298379912,1.7
+,Undetermined ,4,2007,2007,5381,301231207,1.8
+,Undetermined ,4,2008,2008,5051,304093966,1.7
+,Undetermined ,4,2009,2009,5005,306771529,1.6
+,Undetermined ,4,2010,2010,4908,308745538,1.6
+,Undetermined ,4,2011,2011,4773,311591917,1.5
+,Undetermined ,4,2012,2012,4737,313914040,1.5
+,Undetermined ,4,2013,2013,4587,316128839,1.5
+,Undetermined ,4,2014,2014,4597,318857056,1.4
+,Undetermined ,4,2015,2015,4915,321418820,1.5
+,Undetermined ,4,2016,2016,5723,323127513,1.8
+,Legal Intervention / Operations of War,5,1999,1999,421,279040168,0.2
+,Legal Intervention / Operations of War,5,2000,2000,375,281421906,0.1
+,Legal Intervention / Operations of War,5,2001,2001,413,284968955,0.1
+,Legal Intervention / Operations of War,5,2002,2002,404,287625193,0.1
+,Legal Intervention / Operations of War,5,2003,2003,437,290107933,0.2
+,Legal Intervention / Operations of War,5,2004,2004,400,292805298,0.1
+,Legal Intervention / Operations of War,5,2005,2005,441,295516599,0.1
+,Legal Intervention / Operations of War,5,2006,2006,462,298379912,0.2
+,Legal Intervention / Operations of War,5,2007,2007,433,301231207,0.1
+,Legal Intervention / Operations of War,5,2008,2008,412,304093966,0.1
+,Legal Intervention / Operations of War,5,2009,2009,420,306771529,0.1
+,Legal Intervention / Operations of War,5,2010,2010,421,308745538,0.1
+,Legal Intervention / Operations of War,5,2011,2011,497,311591917,0.2
+,Legal Intervention / Operations of War,5,2012,2012,568,313914040,0.2
+,Legal Intervention / Operations of War,5,2013,2013,531,316128839,0.2
+,Legal Intervention / Operations of War,5,2014,2014,529,318857056,0.2
+,Legal Intervention / Operations of War,5,2015,2015,536,321418820,0.2
+,Legal Intervention / Operations of War,5,2016,2016,567,323127513,0.2
+,"Non-Injury, no intent classified",9,1999,1999,2243113,279040168,803.9
+,"Non-Injury, no intent classified",9,2000,2000,2255142,281421906,801.3
+,"Non-Injury, no intent classified",9,2001,2001,2259347,284968955,792.8
+,"Non-Injury, no intent classified",9,2002,2002,2282118,287625193,793.4
+,"Non-Injury, no intent classified",9,2003,2003,2284286,290107933,787.4
+,"Non-Injury, no intent classified",9,2004,2004,2230431,292805298,761.7
+,"Non-Injury, no intent classified",9,2005,2005,2274264,295516599,769.6
+,"Non-Injury, no intent classified",9,2006,2006,2247199,298379912,753.1
+,"Non-Injury, no intent classified",9,2007,2007,2241233,301231207,744
+,"Non-Injury, no intent classified",9,2008,2008,2290758,304093966,753.3
+,"Non-Injury, no intent classified",9,2009,2009,2260009,306771529,736.7
+,"Non-Injury, no intent classified",9,2010,2010,2287624,308745538,740.9
+,"Non-Injury, no intent classified",9,2011,2011,2327994,311591917,747.1
+,"Non-Injury, no intent classified",9,2012,2012,2352894,313914040,749.5
+,"Non-Injury, no intent classified",9,2013,2013,2404048,316128839,760.5
+,"Non-Injury, no intent classified",9,2014,2014,2426666,318857056,761.1
+,"Non-Injury, no intent classified",9,2015,2015,2498622,321418820,777.4
+,"Non-Injury, no intent classified",9,2016,2016,2512257,323127513,777.5
+---,,,,,,,
+"Dataset: Compressed Mortality, 1999-2016",,,,,,,
+Query Parameters:,,,,,,,
+Title: Only Injury Intent per year,,,,,,,
+Group By: Injury Intent; Year,,,,,,,
+Show Totals: False,,,,,,,
+Show Zero Values: False,,,,,,,
+Show Suppressed: False,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,
+---,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information.,,,,,,,
+---,,,,,,,
+"Query Date: Oct 28, 2019 2:45:48 PM",,,,,,,
+---,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File",,,,,,,
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No.",,,,,,,
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Oct 28, 2019 2:45:48 PM",,,,,,,
+---,,,,,,,
+Caveats:,,,,,,,
+1. About national population figures: population figures for 1999 are from the 1990-1999 series of bridged-race intercensal,,,,,,,
+estimates of the July 1 resident population; population figures for 2000 and 2010 are bridged-race April 1 census counts;,,,,,,,
+population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race intercensal estimates of the July 1,,,,,,,
+"resident population; population figures for 2011 are bridged-race postcensal estimates of the July 1 resident population, from",,,,,,,
+"the Vintage 2011 series released by NCHS on July 18, 2012; population figures for 2012 are bridged-race postcensal estimates of",,,,,,,
+"the July 1 resident population, from the Vintage 2012 series released by NCHS on June 13, 2013; population figures for 2013 are",,,,,,,
+"bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2013 series released by NCHS on June 26,",,,,,,,
+"2014; population figures for 2014 are bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2014",,,,,,,
+"series released by NCHS on June 30, 2015. and population figures for 2015 are bridged-race postcensal estimates of the July 1",,,,,,,
+"resident population, from the Vintage 2015 series released by NCHS on June 28, 2016. More information:",,,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Population Information.,,,,,,,
+2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group.,,,,,,,
+"3. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision.,,,,,,,
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",,,,,,,
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies.,,,,,,,
+5. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death,,,,,,,
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More",,,,,,,
+information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies.,,,,,,,
+6. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies.,,,,,,,
