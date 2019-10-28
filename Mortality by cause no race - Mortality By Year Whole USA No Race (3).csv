@@ -1,0 +1,472 @@
+Notes,Census Region,Census Region Code,Year,Year Code,Injury Intent,Injury Intent Code,Deaths,Population,Crude Rate
+,Census Region 1: Northeast,CENS-R1,1999,1999,Unintentional,1,15214,53343775,28.5
+,Census Region 1: Northeast,CENS-R1,1999,1999,Suicide,2,4219,53343775,7.9
+,Census Region 1: Northeast,CENS-R1,1999,1999,Homicide,3,2258,53343775,4.2
+,Census Region 1: Northeast,CENS-R1,1999,1999,Undetermined ,4,905,53343775,1.7
+,Census Region 1: Northeast,CENS-R1,1999,1999,Legal Intervention / Operations of War,5,31,53343775,0.1
+,Census Region 1: Northeast,CENS-R1,1999,1999,"Non-Injury, no intent classified",9,463349,53343775,868.6
+,Census Region 1: Northeast,CENS-R1,2000,2000,Unintentional,1,14840,53594378,27.7
+,Census Region 1: Northeast,CENS-R1,2000,2000,Suicide,2,4176,53594378,7.8
+,Census Region 1: Northeast,CENS-R1,2000,2000,Homicide,3,2261,53594378,4.2
+,Census Region 1: Northeast,CENS-R1,2000,2000,Undetermined ,4,811,53594378,1.5
+,Census Region 1: Northeast,CENS-R1,2000,2000,Legal Intervention / Operations of War,5,32,53594378,0.1
+,Census Region 1: Northeast,CENS-R1,2000,2000,"Non-Injury, no intent classified",9,465711,53594378,869
+,Census Region 1: Northeast,CENS-R1,2001,2001,Unintentional,1,15888,53915522,29.5
+,Census Region 1: Northeast,CENS-R1,2001,2001,Suicide,2,4314,53915522,8
+,Census Region 1: Northeast,CENS-R1,2001,2001,Homicide,3,5058,53915522,9.4
+,Census Region 1: Northeast,CENS-R1,2001,2001,Undetermined ,4,1101,53915522,2
+,Census Region 1: Northeast,CENS-R1,2001,2001,Legal Intervention / Operations of War,5,30,53915522,0.1
+,Census Region 1: Northeast,CENS-R1,2001,2001,"Non-Injury, no intent classified",9,461327,53915522,855.6
+,Census Region 1: Northeast,CENS-R1,2002,2002,Unintentional,1,15970,54143915,29.5
+,Census Region 1: Northeast,CENS-R1,2002,2002,Suicide,2,4294,54143915,7.9
+,Census Region 1: Northeast,CENS-R1,2002,2002,Homicide,3,2256,54143915,4.2
+,Census Region 1: Northeast,CENS-R1,2002,2002,Undetermined ,4,1125,54143915,2.1
+,Census Region 1: Northeast,CENS-R1,2002,2002,Legal Intervention / Operations of War,5,40,54143915,0.1
+,Census Region 1: Northeast,CENS-R1,2002,2002,"Non-Injury, no intent classified",9,463583,54143915,856.2
+,Census Region 1: Northeast,CENS-R1,2003,2003,Unintentional,1,16175,54334453,29.8
+,Census Region 1: Northeast,CENS-R1,2003,2003,Suicide,2,4264,54334453,7.8
+,Census Region 1: Northeast,CENS-R1,2003,2003,Homicide,3,2387,54334453,4.4
+,Census Region 1: Northeast,CENS-R1,2003,2003,Undetermined ,4,1230,54334453,2.3
+,Census Region 1: Northeast,CENS-R1,2003,2003,Legal Intervention / Operations of War,5,35,54334453,0.1
+,Census Region 1: Northeast,CENS-R1,2003,2003,"Non-Injury, no intent classified",9,458569,54334453,844
+,Census Region 1: Northeast,CENS-R1,2004,2004,Unintentional,1,16157,54423533,29.7
+,Census Region 1: Northeast,CENS-R1,2004,2004,Suicide,2,4395,54423533,8.1
+,Census Region 1: Northeast,CENS-R1,2004,2004,Homicide,3,2316,54423533,4.3
+,Census Region 1: Northeast,CENS-R1,2004,2004,Undetermined ,4,1033,54423533,1.9
+,Census Region 1: Northeast,CENS-R1,2004,2004,Legal Intervention / Operations of War,5,29,54423533,0.1
+,Census Region 1: Northeast,CENS-R1,2004,2004,"Non-Injury, no intent classified",9,448905,54423533,824.8
+,Census Region 1: Northeast,CENS-R1,2005,2005,Unintentional,1,17355,54451230,31.9
+,Census Region 1: Northeast,CENS-R1,2005,2005,Suicide,2,4416,54451230,8.1
+,Census Region 1: Northeast,CENS-R1,2005,2005,Homicide,3,2447,54451230,4.5
+,Census Region 1: Northeast,CENS-R1,2005,2005,Undetermined ,4,615,54451230,1.1
+,Census Region 1: Northeast,CENS-R1,2005,2005,Legal Intervention / Operations of War,5,25,54451230,0
+,Census Region 1: Northeast,CENS-R1,2005,2005,"Non-Injury, no intent classified",9,450540,54451230,827.4
+,Census Region 1: Northeast,CENS-R1,2006,2006,Unintentional,1,18407,54522659,33.8
+,Census Region 1: Northeast,CENS-R1,2006,2006,Suicide,2,4529,54522659,8.3
+,Census Region 1: Northeast,CENS-R1,2006,2006,Homicide,3,2587,54522659,4.7
+,Census Region 1: Northeast,CENS-R1,2006,2006,Undetermined ,4,674,54522659,1.2
+,Census Region 1: Northeast,CENS-R1,2006,2006,Legal Intervention / Operations of War,5,30,54522659,0.1
+,Census Region 1: Northeast,CENS-R1,2006,2006,"Non-Injury, no intent classified",9,438276,54522659,803.8
+,Census Region 1: Northeast,CENS-R1,2007,2007,Unintentional,1,18465,54653362,33.8
+,Census Region 1: Northeast,CENS-R1,2007,2007,Suicide,2,4754,54653362,8.7
+,Census Region 1: Northeast,CENS-R1,2007,2007,Homicide,3,2364,54653362,4.3
+,Census Region 1: Northeast,CENS-R1,2007,2007,Undetermined ,4,738,54653362,1.4
+,Census Region 1: Northeast,CENS-R1,2007,2007,Legal Intervention / Operations of War,5,37,54653362,0.1
+,Census Region 1: Northeast,CENS-R1,2007,2007,"Non-Injury, no intent classified",9,435354,54653362,796.6
+,Census Region 1: Northeast,CENS-R1,2008,2008,Unintentional,1,18593,54875926,33.9
+,Census Region 1: Northeast,CENS-R1,2008,2008,Suicide,2,4951,54875926,9
+,Census Region 1: Northeast,CENS-R1,2008,2008,Homicide,3,2352,54875926,4.3
+,Census Region 1: Northeast,CENS-R1,2008,2008,Undetermined ,4,631,54875926,1.1
+,Census Region 1: Northeast,CENS-R1,2008,2008,Legal Intervention / Operations of War,5,43,54875926,0.1
+,Census Region 1: Northeast,CENS-R1,2008,2008,"Non-Injury, no intent classified",9,439686,54875926,801.2
+,Census Region 1: Northeast,CENS-R1,2009,2009,Unintentional,1,17432,55133101,31.6
+,Census Region 1: Northeast,CENS-R1,2009,2009,Suicide,2,5019,55133101,9.1
+,Census Region 1: Northeast,CENS-R1,2009,2009,Homicide,3,2191,55133101,4
+,Census Region 1: Northeast,CENS-R1,2009,2009,Undetermined ,4,597,55133101,1.1
+,Census Region 1: Northeast,CENS-R1,2009,2009,Legal Intervention / Operations of War,5,44,55133101,0.1
+,Census Region 1: Northeast,CENS-R1,2009,2009,"Non-Injury, no intent classified",9,432265,55133101,784
+,Census Region 1: Northeast,CENS-R1,2010,2010,Unintentional,1,18468,55317240,33.4
+,Census Region 1: Northeast,CENS-R1,2010,2010,Suicide,2,5410,55317240,9.8
+,Census Region 1: Northeast,CENS-R1,2010,2010,Homicide,3,2403,55317240,4.3
+,Census Region 1: Northeast,CENS-R1,2010,2010,Undetermined ,4,667,55317240,1.2
+,Census Region 1: Northeast,CENS-R1,2010,2010,Legal Intervention / Operations of War,5,30,55317240,0.1
+,Census Region 1: Northeast,CENS-R1,2010,2010,"Non-Injury, no intent classified",9,432730,55317240,782.3
+,Census Region 1: Northeast,CENS-R1,2011,2011,Unintentional,1,19970,55632766,35.9
+,Census Region 1: Northeast,CENS-R1,2011,2011,Suicide,2,5703,55632766,10.3
+,Census Region 1: Northeast,CENS-R1,2011,2011,Homicide,3,2337,55632766,4.2
+,Census Region 1: Northeast,CENS-R1,2011,2011,Undetermined ,4,725,55632766,1.3
+,Census Region 1: Northeast,CENS-R1,2011,2011,Legal Intervention / Operations of War,5,53,55632766,0.1
+,Census Region 1: Northeast,CENS-R1,2011,2011,"Non-Injury, no intent classified",9,441255,55632766,793.2
+,Census Region 1: Northeast,CENS-R1,2012,2012,Unintentional,1,20730,55829059,37.1
+,Census Region 1: Northeast,CENS-R1,2012,2012,Suicide,2,5613,55829059,10.1
+,Census Region 1: Northeast,CENS-R1,2012,2012,Homicide,3,2203,55829059,3.9
+,Census Region 1: Northeast,CENS-R1,2012,2012,Undetermined ,4,632,55829059,1.1
+,Census Region 1: Northeast,CENS-R1,2012,2012,Legal Intervention / Operations of War,5,60,55829059,0.1
+,Census Region 1: Northeast,CENS-R1,2012,2012,"Non-Injury, no intent classified",9,438206,55829059,784.9
+,Census Region 1: Northeast,CENS-R1,2013,2013,Unintentional,1,21441,55988771,38.3
+,Census Region 1: Northeast,CENS-R1,2013,2013,Suicide,2,5808,55988771,10.4
+,Census Region 1: Northeast,CENS-R1,2013,2013,Homicide,3,2076,55988771,3.7
+,Census Region 1: Northeast,CENS-R1,2013,2013,Undetermined ,4,636,55988771,1.1
+,Census Region 1: Northeast,CENS-R1,2013,2013,Legal Intervention / Operations of War,5,66,55988771,0.1
+,Census Region 1: Northeast,CENS-R1,2013,2013,"Non-Injury, no intent classified",9,445492,55988771,795.7
+,Census Region 1: Northeast,CENS-R1,2014,2014,Unintentional,1,22184,56116791,39.5
+,Census Region 1: Northeast,CENS-R1,2014,2014,Suicide,2,5982,56116791,10.7
+,Census Region 1: Northeast,CENS-R1,2014,2014,Homicide,3,1970,56116791,3.5
+,Census Region 1: Northeast,CENS-R1,2014,2014,Undetermined ,4,608,56116791,1.1
+,Census Region 1: Northeast,CENS-R1,2014,2014,Legal Intervention / Operations of War,5,45,56116791,0.1
+,Census Region 1: Northeast,CENS-R1,2014,2014,"Non-Injury, no intent classified",9,444384,56116791,791.9
+,Census Region 1: Northeast,CENS-R1,2015,2015,Unintentional,1,24697,56184737,44
+,Census Region 1: Northeast,CENS-R1,2015,2015,Suicide,2,6054,56184737,10.8
+,Census Region 1: Northeast,CENS-R1,2015,2015,Homicide,3,2084,56184737,3.7
+,Census Region 1: Northeast,CENS-R1,2015,2015,Undetermined ,4,673,56184737,1.2
+,Census Region 1: Northeast,CENS-R1,2015,2015,Legal Intervention / Operations of War,5,52,56184737,0.1
+,Census Region 1: Northeast,CENS-R1,2015,2015,"Non-Injury, no intent classified",9,455823,56184737,811.3
+,Census Region 1: Northeast,CENS-R1,2016,2016,Unintentional,1,28292,56209510,50.3
+,Census Region 1: Northeast,CENS-R1,2016,2016,Suicide,2,6078,56209510,10.8
+,Census Region 1: Northeast,CENS-R1,2016,2016,Homicide,3,2112,56209510,3.8
+,Census Region 1: Northeast,CENS-R1,2016,2016,Undetermined ,4,744,56209510,1.3
+,Census Region 1: Northeast,CENS-R1,2016,2016,Legal Intervention / Operations of War,5,53,56209510,0.1
+,Census Region 1: Northeast,CENS-R1,2016,2016,"Non-Injury, no intent classified",9,452807,56209510,805.6
+,Census Region 2: Midwest,CENS-R2,1999,1999,Unintentional,1,22979,64100061,35.8
+,Census Region 2: Midwest,CENS-R2,1999,1999,Suicide,2,6411,64100061,10
+,Census Region 2: Midwest,CENS-R2,1999,1999,Homicide,3,3631,64100061,5.7
+,Census Region 2: Midwest,CENS-R2,1999,1999,Undetermined ,4,666,64100061,1
+,Census Region 2: Midwest,CENS-R2,1999,1999,Legal Intervention / Operations of War,5,58,64100061,0.1
+,Census Region 2: Midwest,CENS-R2,1999,1999,"Non-Injury, no intent classified",9,548401,64100061,855.5
+,Census Region 2: Midwest,CENS-R2,2000,2000,Unintentional,1,22493,64392776,34.9
+,Census Region 2: Midwest,CENS-R2,2000,2000,Suicide,2,6447,64392776,10
+,Census Region 2: Midwest,CENS-R2,2000,2000,Homicide,3,3545,64392776,5.5
+,Census Region 2: Midwest,CENS-R2,2000,2000,Undetermined ,4,707,64392776,1.1
+,Census Region 2: Midwest,CENS-R2,2000,2000,Legal Intervention / Operations of War,5,50,64392776,0.1
+,Census Region 2: Midwest,CENS-R2,2000,2000,"Non-Injury, no intent classified",9,543601,64392776,844.2
+,Census Region 2: Midwest,CENS-R2,2001,2001,Unintentional,1,23222,64776531,35.8
+,Census Region 2: Midwest,CENS-R2,2001,2001,Suicide,2,6936,64776531,10.7
+,Census Region 2: Midwest,CENS-R2,2001,2001,Homicide,3,3790,64776531,5.9
+,Census Region 2: Midwest,CENS-R2,2001,2001,Undetermined ,4,832,64776531,1.3
+,Census Region 2: Midwest,CENS-R2,2001,2001,Legal Intervention / Operations of War,5,62,64776531,0.1
+,Census Region 2: Midwest,CENS-R2,2001,2001,"Non-Injury, no intent classified",9,540165,64776531,833.9
+,Census Region 2: Midwest,CENS-R2,2002,2002,Unintentional,1,24232,65018293,37.3
+,Census Region 2: Midwest,CENS-R2,2002,2002,Suicide,2,7143,65018293,11
+,Census Region 2: Midwest,CENS-R2,2002,2002,Homicide,3,3594,65018293,5.5
+,Census Region 2: Midwest,CENS-R2,2002,2002,Undetermined ,4,883,65018293,1.4
+,Census Region 2: Midwest,CENS-R2,2002,2002,Legal Intervention / Operations of War,5,63,65018293,0.1
+,Census Region 2: Midwest,CENS-R2,2002,2002,"Non-Injury, no intent classified",9,546667,65018293,840.8
+,Census Region 2: Midwest,CENS-R2,2003,2003,Unintentional,1,23899,65276954,36.6
+,Census Region 2: Midwest,CENS-R2,2003,2003,Suicide,2,6731,65276954,10.3
+,Census Region 2: Midwest,CENS-R2,2003,2003,Homicide,3,3393,65276954,5.2
+,Census Region 2: Midwest,CENS-R2,2003,2003,Undetermined ,4,864,65276954,1.3
+,Census Region 2: Midwest,CENS-R2,2003,2003,Legal Intervention / Operations of War,5,82,65276954,0.1
+,Census Region 2: Midwest,CENS-R2,2003,2003,"Non-Injury, no intent classified",9,542883,65276954,831.7
+,Census Region 2: Midwest,CENS-R2,2004,2004,Unintentional,1,24657,65532305,37.6
+,Census Region 2: Midwest,CENS-R2,2004,2004,Suicide,2,7114,65532305,10.9
+,Census Region 2: Midwest,CENS-R2,2004,2004,Homicide,3,3341,65532305,5.1
+,Census Region 2: Midwest,CENS-R2,2004,2004,Undetermined ,4,982,65532305,1.5
+,Census Region 2: Midwest,CENS-R2,2004,2004,Legal Intervention / Operations of War,5,59,65532305,0.1
+,Census Region 2: Midwest,CENS-R2,2004,2004,"Non-Injury, no intent classified",9,526575,65532305,803.5
+,Census Region 2: Midwest,CENS-R2,2005,2005,Unintentional,1,25555,65751872,38.9
+,Census Region 2: Midwest,CENS-R2,2005,2005,Suicide,2,7292,65751872,11.1
+,Census Region 2: Midwest,CENS-R2,2005,2005,Homicide,3,3560,65751872,5.4
+,Census Region 2: Midwest,CENS-R2,2005,2005,Undetermined ,4,923,65751872,1.4
+,Census Region 2: Midwest,CENS-R2,2005,2005,Legal Intervention / Operations of War,5,67,65751872,0.1
+,Census Region 2: Midwest,CENS-R2,2005,2005,"Non-Injury, no intent classified",9,537336,65751872,817.2
+,Census Region 2: Midwest,CENS-R2,2006,2006,Unintentional,1,26590,66028555,40.3
+,Census Region 2: Midwest,CENS-R2,2006,2006,Suicide,2,7451,66028555,11.3
+,Census Region 2: Midwest,CENS-R2,2006,2006,Homicide,3,3636,66028555,5.5
+,Census Region 2: Midwest,CENS-R2,2006,2006,Undetermined ,4,985,66028555,1.5
+,Census Region 2: Midwest,CENS-R2,2006,2006,Legal Intervention / Operations of War,5,62,66028555,0.1
+,Census Region 2: Midwest,CENS-R2,2006,2006,"Non-Injury, no intent classified",9,529564,66028555,802
+,Census Region 2: Midwest,CENS-R2,2007,2007,Unintentional,1,26988,66293689,40.7
+,Census Region 2: Midwest,CENS-R2,2007,2007,Suicide,2,7515,66293689,11.3
+,Census Region 2: Midwest,CENS-R2,2007,2007,Homicide,3,3552,66293689,5.4
+,Census Region 2: Midwest,CENS-R2,2007,2007,Undetermined ,4,1011,66293689,1.5
+,Census Region 2: Midwest,CENS-R2,2007,2007,Legal Intervention / Operations of War,5,71,66293689,0.1
+,Census Region 2: Midwest,CENS-R2,2007,2007,"Non-Injury, no intent classified",9,525528,66293689,792.7
+,Census Region 2: Midwest,CENS-R2,2008,2008,Unintentional,1,26922,66523935,40.5
+,Census Region 2: Midwest,CENS-R2,2008,2008,Suicide,2,7835,66523935,11.8
+,Census Region 2: Midwest,CENS-R2,2008,2008,Homicide,3,3494,66523935,5.3
+,Census Region 2: Midwest,CENS-R2,2008,2008,Undetermined ,4,1150,66523935,1.7
+,Census Region 2: Midwest,CENS-R2,2008,2008,Legal Intervention / Operations of War,5,67,66523935,0.1
+,Census Region 2: Midwest,CENS-R2,2008,2008,"Non-Injury, no intent classified",9,542790,66523935,815.9
+,Census Region 2: Midwest,CENS-R2,2009,2009,Unintentional,1,25541,66748437,38.3
+,Census Region 2: Midwest,CENS-R2,2009,2009,Suicide,2,7650,66748437,11.5
+,Census Region 2: Midwest,CENS-R2,2009,2009,Homicide,3,3366,66748437,5
+,Census Region 2: Midwest,CENS-R2,2009,2009,Undetermined ,4,1109,66748437,1.7
+,Census Region 2: Midwest,CENS-R2,2009,2009,Legal Intervention / Operations of War,5,64,66748437,0.1
+,Census Region 2: Midwest,CENS-R2,2009,2009,"Non-Injury, no intent classified",9,528936,66748437,792.4
+,Census Region 2: Midwest,CENS-R2,2010,2010,Unintentional,1,26996,66927001,40.3
+,Census Region 2: Midwest,CENS-R2,2010,2010,Suicide,2,8211,66927001,12.3
+,Census Region 2: Midwest,CENS-R2,2010,2010,Homicide,3,3237,66927001,4.8
+,Census Region 2: Midwest,CENS-R2,2010,2010,Undetermined ,4,1107,66927001,1.7
+,Census Region 2: Midwest,CENS-R2,2010,2010,Legal Intervention / Operations of War,5,85,66927001,0.1
+,Census Region 2: Midwest,CENS-R2,2010,2010,"Non-Injury, no intent classified",9,535793,66927001,800.6
+,Census Region 2: Midwest,CENS-R2,2011,2011,Unintentional,1,28348,67153331,42.2
+,Census Region 2: Midwest,CENS-R2,2011,2011,Suicide,2,8397,67153331,12.5
+,Census Region 2: Midwest,CENS-R2,2011,2011,Homicide,3,3354,67153331,5
+,Census Region 2: Midwest,CENS-R2,2011,2011,Undetermined ,4,1087,67153331,1.6
+,Census Region 2: Midwest,CENS-R2,2011,2011,Legal Intervention / Operations of War,5,89,67153331,0.1
+,Census Region 2: Midwest,CENS-R2,2011,2011,"Non-Injury, no intent classified",9,545901,67153331,812.9
+,Census Region 2: Midwest,CENS-R2,2012,2012,Unintentional,1,28841,67332320,42.8
+,Census Region 2: Midwest,CENS-R2,2012,2012,Suicide,2,8691,67332320,12.9
+,Census Region 2: Midwest,CENS-R2,2012,2012,Homicide,3,3525,67332320,5.2
+,Census Region 2: Midwest,CENS-R2,2012,2012,Undetermined ,4,991,67332320,1.5
+,Census Region 2: Midwest,CENS-R2,2012,2012,Legal Intervention / Operations of War,5,84,67332320,0.1
+,Census Region 2: Midwest,CENS-R2,2012,2012,"Non-Injury, no intent classified",9,549090,67332320,815.5
+,Census Region 2: Midwest,CENS-R2,2013,2013,Unintentional,1,29721,67543948,44
+,Census Region 2: Midwest,CENS-R2,2013,2013,Suicide,2,8941,67543948,13.2
+,Census Region 2: Midwest,CENS-R2,2013,2013,Homicide,3,3459,67543948,5.1
+,Census Region 2: Midwest,CENS-R2,2013,2013,Undetermined ,4,971,67543948,1.4
+,Census Region 2: Midwest,CENS-R2,2013,2013,Legal Intervention / Operations of War,5,85,67543948,0.1
+,Census Region 2: Midwest,CENS-R2,2013,2013,"Non-Injury, no intent classified",9,558511,67543948,826.9
+,Census Region 2: Midwest,CENS-R2,2014,2014,Unintentional,1,31214,67726368,46.1
+,Census Region 2: Midwest,CENS-R2,2014,2014,Suicide,2,9054,67726368,13.4
+,Census Region 2: Midwest,CENS-R2,2014,2014,Homicide,3,3317,67726368,4.9
+,Census Region 2: Midwest,CENS-R2,2014,2014,Undetermined ,4,1013,67726368,1.5
+,Census Region 2: Midwest,CENS-R2,2014,2014,Legal Intervention / Operations of War,5,99,67726368,0.1
+,Census Region 2: Midwest,CENS-R2,2014,2014,"Non-Injury, no intent classified",9,564667,67726368,833.7
+,Census Region 2: Midwest,CENS-R2,2015,2015,Unintentional,1,33248,67838387,49
+,Census Region 2: Midwest,CENS-R2,2015,2015,Suicide,2,9472,67838387,14
+,Census Region 2: Midwest,CENS-R2,2015,2015,Homicide,3,3792,67838387,5.6
+,Census Region 2: Midwest,CENS-R2,2015,2015,Undetermined ,4,1089,67838387,1.6
+,Census Region 2: Midwest,CENS-R2,2015,2015,Legal Intervention / Operations of War,5,88,67838387,0.1
+,Census Region 2: Midwest,CENS-R2,2015,2015,"Non-Injury, no intent classified",9,576117,67838387,849.2
+,Census Region 2: Midwest,CENS-R2,2016,2016,Unintentional,1,36913,67941429,54.3
+,Census Region 2: Midwest,CENS-R2,2016,2016,Suicide,2,9778,67941429,14.4
+,Census Region 2: Midwest,CENS-R2,2016,2016,Homicide,3,4284,67941429,6.3
+,Census Region 2: Midwest,CENS-R2,2016,2016,Undetermined ,4,1184,67941429,1.7
+,Census Region 2: Midwest,CENS-R2,2016,2016,Legal Intervention / Operations of War,5,98,67941429,0.1
+,Census Region 2: Midwest,CENS-R2,2016,2016,"Non-Injury, no intent classified",9,574892,67941429,846.2
+,Census Region 3: South,CENS-R3,1999,1999,Unintentional,1,39391,99164460,39.7
+,Census Region 3: South,CENS-R3,1999,1999,Suicide,2,11181,99164460,11.3
+,Census Region 3: South,CENS-R3,1999,1999,Homicide,3,7417,99164460,7.5
+,Census Region 3: South,CENS-R3,1999,1999,Undetermined ,4,1445,99164460,1.5
+,Census Region 3: South,CENS-R3,1999,1999,Legal Intervention / Operations of War,5,186,99164460,0.2
+,Census Region 3: South,CENS-R3,1999,1999,"Non-Injury, no intent classified",9,820283,99164460,827.2
+,Census Region 3: South,CENS-R3,2000,2000,Unintentional,1,40331,100236820,40.2
+,Census Region 3: South,CENS-R3,2000,2000,Suicide,2,11434,100236820,11.4
+,Census Region 3: South,CENS-R3,2000,2000,Homicide,3,7556,100236820,7.5
+,Census Region 3: South,CENS-R3,2000,2000,Undetermined ,4,1464,100236820,1.5
+,Census Region 3: South,CENS-R3,2000,2000,Legal Intervention / Operations of War,5,186,100236820,0.2
+,Census Region 3: South,CENS-R3,2000,2000,"Non-Injury, no intent classified",9,833041,100236820,831.1
+,Census Region 3: South,CENS-R3,2001,2001,Unintentional,1,42288,101849575,41.5
+,Census Region 3: South,CENS-R3,2001,2001,Suicide,2,12059,101849575,11.8
+,Census Region 3: South,CENS-R3,2001,2001,Homicide,3,7736,101849575,7.6
+,Census Region 3: South,CENS-R3,2001,2001,Undetermined ,4,1480,101849575,1.5
+,Census Region 3: South,CENS-R3,2001,2001,Legal Intervention / Operations of War,5,179,101849575,0.2
+,Census Region 3: South,CENS-R3,2001,2001,"Non-Injury, no intent classified",9,835271,101849575,820.1
+,Census Region 3: South,CENS-R3,2002,2002,Unintentional,1,43602,103150787,42.3
+,Census Region 3: South,CENS-R3,2002,2002,Suicide,2,12193,103150787,11.8
+,Census Region 3: South,CENS-R3,2002,2002,Homicide,3,7750,103150787,7.5
+,Census Region 3: South,CENS-R3,2002,2002,Undetermined ,4,1753,103150787,1.7
+,Census Region 3: South,CENS-R3,2002,2002,Legal Intervention / Operations of War,5,182,103150787,0.2
+,Census Region 3: South,CENS-R3,2002,2002,"Non-Injury, no intent classified",9,846188,103150787,820.3
+,Census Region 3: South,CENS-R3,2003,2003,Unintentional,1,45617,104380188,43.7
+,Census Region 3: South,CENS-R3,2003,2003,Suicide,2,12255,104380188,11.7
+,Census Region 3: South,CENS-R3,2003,2003,Homicide,3,7905,104380188,7.6
+,Census Region 3: South,CENS-R3,2003,2003,Undetermined ,4,1779,104380188,1.7
+,Census Region 3: South,CENS-R3,2003,2003,Legal Intervention / Operations of War,5,174,104380188,0.2
+,Census Region 3: South,CENS-R3,2003,2003,"Non-Injury, no intent classified",9,849693,104380188,814
+,Census Region 3: South,CENS-R3,2004,2004,Unintentional,1,47172,105883977,44.6
+,Census Region 3: South,CENS-R3,2004,2004,Suicide,2,12557,105883977,11.9
+,Census Region 3: South,CENS-R3,2004,2004,Homicide,3,7602,105883977,7.2
+,Census Region 3: South,CENS-R3,2004,2004,Undetermined ,4,1835,105883977,1.7
+,Census Region 3: South,CENS-R3,2004,2004,Legal Intervention / Operations of War,5,154,105883977,0.1
+,Census Region 3: South,CENS-R3,2004,2004,"Non-Injury, no intent classified",9,833901,105883977,787.6
+,Census Region 3: South,CENS-R3,2005,2005,Unintentional,1,49366,107479771,45.9
+,Census Region 3: South,CENS-R3,2005,2005,Suicide,2,12664,107479771,11.8
+,Census Region 3: South,CENS-R3,2005,2005,Homicide,3,7969,107479771,7.4
+,Census Region 3: South,CENS-R3,2005,2005,Undetermined ,4,1921,107479771,1.8
+,Census Region 3: South,CENS-R3,2005,2005,Legal Intervention / Operations of War,5,174,107479771,0.2
+,Census Region 3: South,CENS-R3,2005,2005,"Non-Injury, no intent classified",9,853076,107479771,793.7
+,Census Region 3: South,CENS-R3,2006,2006,Unintentional,1,50287,109076933,46.1
+,Census Region 3: South,CENS-R3,2006,2006,Suicide,2,12907,109076933,11.8
+,Census Region 3: South,CENS-R3,2006,2006,Homicide,3,8111,109076933,7.4
+,Census Region 3: South,CENS-R3,2006,2006,Undetermined ,4,2115,109076933,1.9
+,Census Region 3: South,CENS-R3,2006,2006,Legal Intervention / Operations of War,5,192,109076933,0.2
+,Census Region 3: South,CENS-R3,2006,2006,"Non-Injury, no intent classified",9,845235,109076933,774.9
+,Census Region 3: South,CENS-R3,2007,2007,Unintentional,1,51409,110688742,46.4
+,Census Region 3: South,CENS-R3,2007,2007,Suicide,2,13389,110688742,12.1
+,Census Region 3: South,CENS-R3,2007,2007,Homicide,3,8507,110688742,7.7
+,Census Region 3: South,CENS-R3,2007,2007,Undetermined ,4,2241,110688742,2
+,Census Region 3: South,CENS-R3,2007,2007,Legal Intervention / Operations of War,5,163,110688742,0.1
+,Census Region 3: South,CENS-R3,2007,2007,"Non-Injury, no intent classified",9,848651,110688742,766.7
+,Census Region 3: South,CENS-R3,2008,2008,Unintentional,1,50386,112184930,44.9
+,Census Region 3: South,CENS-R3,2008,2008,Suicide,2,14020,112184930,12.5
+,Census Region 3: South,CENS-R3,2008,2008,Homicide,3,8207,112184930,7.3
+,Census Region 3: South,CENS-R3,2008,2008,Undetermined ,4,2055,112184930,1.8
+,Census Region 3: South,CENS-R3,2008,2008,Legal Intervention / Operations of War,5,158,112184930,0.1
+,Census Region 3: South,CENS-R3,2008,2008,"Non-Injury, no intent classified",9,869710,112184930,775.2
+,Census Region 3: South,CENS-R3,2009,2009,Unintentional,1,49262,113548615,43.4
+,Census Region 3: South,CENS-R3,2009,2009,Suicide,2,14569,113548615,12.8
+,Census Region 3: South,CENS-R3,2009,2009,Homicide,3,7739,113548615,6.8
+,Census Region 3: South,CENS-R3,2009,2009,Undetermined ,4,2082,113548615,1.8
+,Census Region 3: South,CENS-R3,2009,2009,Legal Intervention / Operations of War,5,164,113548615,0.1
+,Census Region 3: South,CENS-R3,2009,2009,"Non-Injury, no intent classified",9,862854,113548615,759.9
+,Census Region 3: South,CENS-R3,2010,2010,Unintentional,1,50024,114555744,43.7
+,Census Region 3: South,CENS-R3,2010,2010,Suicide,2,14778,114555744,12.9
+,Census Region 3: South,CENS-R3,2010,2010,Homicide,3,7282,114555744,6.4
+,Census Region 3: South,CENS-R3,2010,2010,Undetermined ,4,1973,114555744,1.7
+,Census Region 3: South,CENS-R3,2010,2010,Legal Intervention / Operations of War,5,133,114555744,0.1
+,Census Region 3: South,CENS-R3,2010,2010,"Non-Injury, no intent classified",9,878464,114555744,766.8
+,Census Region 3: South,CENS-R3,2011,2011,Unintentional,1,51352,116061801,44.2
+,Census Region 3: South,CENS-R3,2011,2011,Suicide,2,15265,116061801,13.2
+,Census Region 3: South,CENS-R3,2011,2011,Homicide,3,7281,116061801,6.3
+,Census Region 3: South,CENS-R3,2011,2011,Undetermined ,4,1812,116061801,1.6
+,Census Region 3: South,CENS-R3,2011,2011,Legal Intervention / Operations of War,5,168,116061801,0.1
+,Census Region 3: South,CENS-R3,2011,2011,"Non-Injury, no intent classified",9,887634,116061801,764.8
+,Census Region 3: South,CENS-R3,2012,2012,Unintentional,1,51384,117299171,43.8
+,Census Region 3: South,CENS-R3,2012,2012,Suicide,2,15858,117299171,13.5
+,Census Region 3: South,CENS-R3,2012,2012,Homicide,3,7574,117299171,6.5
+,Census Region 3: South,CENS-R3,2012,2012,Undetermined ,4,1933,117299171,1.6
+,Census Region 3: South,CENS-R3,2012,2012,Legal Intervention / Operations of War,5,207,117299171,0.2
+,Census Region 3: South,CENS-R3,2012,2012,"Non-Injury, no intent classified",9,906745,117299171,773
+,Census Region 3: South,CENS-R3,2013,2013,Unintentional,1,51429,118424320,43.4
+,Census Region 3: South,CENS-R3,2013,2013,Suicide,2,15907,118424320,13.4
+,Census Region 3: South,CENS-R3,2013,2013,Homicide,3,7333,118424320,6.2
+,Census Region 3: South,CENS-R3,2013,2013,Undetermined ,4,1910,118424320,1.6
+,Census Region 3: South,CENS-R3,2013,2013,Legal Intervention / Operations of War,5,194,118424320,0.2
+,Census Region 3: South,CENS-R3,2013,2013,"Non-Injury, no intent classified",9,929603,118424320,785
+,Census Region 3: South,CENS-R3,2014,2014,Unintentional,1,53658,119696311,44.8
+,Census Region 3: South,CENS-R3,2014,2014,Suicide,2,16705,119696311,14
+,Census Region 3: South,CENS-R3,2014,2014,Homicide,3,7434,119696311,6.2
+,Census Region 3: South,CENS-R3,2014,2014,Undetermined ,4,2020,119696311,1.7
+,Census Region 3: South,CENS-R3,2014,2014,Legal Intervention / Operations of War,5,179,119696311,0.1
+,Census Region 3: South,CENS-R3,2014,2014,"Non-Injury, no intent classified",9,945285,119696311,789.7
+,Census Region 3: South,CENS-R3,2015,2015,Unintentional,1,57927,121039206,47.9
+,Census Region 3: South,CENS-R3,2015,2015,Suicide,2,17354,121039206,14.3
+,Census Region 3: South,CENS-R3,2015,2015,Homicide,3,8394,121039206,6.9
+,Census Region 3: South,CENS-R3,2015,2015,Undetermined ,4,2159,121039206,1.8
+,Census Region 3: South,CENS-R3,2015,2015,Legal Intervention / Operations of War,5,183,121039206,0.2
+,Census Region 3: South,CENS-R3,2015,2015,"Non-Injury, no intent classified",9,972257,121039206,803.3
+,Census Region 3: South,CENS-R3,2016,2016,Unintentional,1,63785,122319574,52.1
+,Census Region 3: South,CENS-R3,2016,2016,Suicide,2,17593,122319574,14.4
+,Census Region 3: South,CENS-R3,2016,2016,Homicide,3,9234,122319574,7.5
+,Census Region 3: South,CENS-R3,2016,2016,Undetermined ,4,2821,122319574,2.3
+,Census Region 3: South,CENS-R3,2016,2016,Legal Intervention / Operations of War,5,216,122319574,0.2
+,Census Region 3: South,CENS-R3,2016,2016,"Non-Injury, no intent classified",9,982822,122319574,803.5
+,Census Region 4: West,CENS-R4,1999,1999,Unintentional,1,20276,62431872,32.5
+,Census Region 4: West,CENS-R4,1999,1999,Suicide,2,7388,62431872,11.8
+,Census Region 4: West,CENS-R4,1999,1999,Homicide,3,3583,62431872,5.7
+,Census Region 4: West,CENS-R4,1999,1999,Undetermined ,4,901,62431872,1.4
+,Census Region 4: West,CENS-R4,1999,1999,Legal Intervention / Operations of War,5,146,62431872,0.2
+,Census Region 4: West,CENS-R4,1999,1999,"Non-Injury, no intent classified",9,411080,62431872,658.4
+,Census Region 4: West,CENS-R4,2000,2000,Unintentional,1,20236,63197932,32
+,Census Region 4: West,CENS-R4,2000,2000,Suicide,2,7293,63197932,11.5
+,Census Region 4: West,CENS-R4,2000,2000,Homicide,3,3403,63197932,5.4
+,Census Region 4: West,CENS-R4,2000,2000,Undetermined ,4,837,63197932,1.3
+,Census Region 4: West,CENS-R4,2000,2000,Legal Intervention / Operations of War,5,107,63197932,0.2
+,Census Region 4: West,CENS-R4,2000,2000,"Non-Injury, no intent classified",9,412789,63197932,653.2
+,Census Region 4: West,CENS-R4,2001,2001,Unintentional,1,20139,64427327,31.3
+,Census Region 4: West,CENS-R4,2001,2001,Suicide,2,7313,64427327,11.4
+,Census Region 4: West,CENS-R4,2001,2001,Homicide,3,3724,64427327,5.8
+,Census Region 4: West,CENS-R4,2001,2001,Undetermined ,4,785,64427327,1.2
+,Census Region 4: West,CENS-R4,2001,2001,Legal Intervention / Operations of War,5,142,64427327,0.2
+,Census Region 4: West,CENS-R4,2001,2001,"Non-Injury, no intent classified",9,422584,64427327,655.9
+,Census Region 4: West,CENS-R4,2002,2002,Unintentional,1,22938,65312198,35.1
+,Census Region 4: West,CENS-R4,2002,2002,Suicide,2,8025,65312198,12.3
+,Census Region 4: West,CENS-R4,2002,2002,Homicide,3,4038,65312198,6.2
+,Census Region 4: West,CENS-R4,2002,2002,Undetermined ,4,1069,65312198,1.6
+,Census Region 4: West,CENS-R4,2002,2002,Legal Intervention / Operations of War,5,119,65312198,0.2
+,Census Region 4: West,CENS-R4,2002,2002,"Non-Injury, no intent classified",9,425680,65312198,651.8
+,Census Region 4: West,CENS-R4,2003,2003,Unintentional,1,23586,66116338,35.7
+,Census Region 4: West,CENS-R4,2003,2003,Suicide,2,8234,66116338,12.5
+,Census Region 4: West,CENS-R4,2003,2003,Homicide,3,4047,66116338,6.1
+,Census Region 4: West,CENS-R4,2003,2003,Undetermined ,4,1199,66116338,1.8
+,Census Region 4: West,CENS-R4,2003,2003,Legal Intervention / Operations of War,5,146,66116338,0.2
+,Census Region 4: West,CENS-R4,2003,2003,"Non-Injury, no intent classified",9,433141,66116338,655.1
+,Census Region 4: West,CENS-R4,2004,2004,Unintentional,1,24026,66965483,35.9
+,Census Region 4: West,CENS-R4,2004,2004,Suicide,2,8373,66965483,12.5
+,Census Region 4: West,CENS-R4,2004,2004,Homicide,3,4098,66965483,6.1
+,Census Region 4: West,CENS-R4,2004,2004,Undetermined ,4,1126,66965483,1.7
+,Census Region 4: West,CENS-R4,2004,2004,Legal Intervention / Operations of War,5,158,66965483,0.2
+,Census Region 4: West,CENS-R4,2004,2004,"Non-Injury, no intent classified",9,421050,66965483,628.8
+,Census Region 4: West,CENS-R4,2005,2005,Unintentional,1,25533,67833726,37.6
+,Census Region 4: West,CENS-R4,2005,2005,Suicide,2,8265,67833726,12.2
+,Census Region 4: West,CENS-R4,2005,2005,Homicide,3,4148,67833726,6.1
+,Census Region 4: West,CENS-R4,2005,2005,Undetermined ,4,1283,67833726,1.9
+,Census Region 4: West,CENS-R4,2005,2005,Legal Intervention / Operations of War,5,175,67833726,0.3
+,Census Region 4: West,CENS-R4,2005,2005,"Non-Injury, no intent classified",9,433312,67833726,638.8
+,Census Region 4: West,CENS-R4,2006,2006,Unintentional,1,26315,68751765,38.3
+,Census Region 4: West,CENS-R4,2006,2006,Suicide,2,8413,68751765,12.2
+,Census Region 4: West,CENS-R4,2006,2006,Homicide,3,4239,68751765,6.2
+,Census Region 4: West,CENS-R4,2006,2006,Undetermined ,4,1357,68751765,2
+,Census Region 4: West,CENS-R4,2006,2006,Legal Intervention / Operations of War,5,178,68751765,0.3
+,Census Region 4: West,CENS-R4,2006,2006,"Non-Injury, no intent classified",9,434124,68751765,631.4
+,Census Region 4: West,CENS-R4,2007,2007,Unintentional,1,26844,69595414,38.6
+,Census Region 4: West,CENS-R4,2007,2007,Suicide,2,8940,69595414,12.8
+,Census Region 4: West,CENS-R4,2007,2007,Homicide,3,3938,69595414,5.7
+,Census Region 4: West,CENS-R4,2007,2007,Undetermined ,4,1391,69595414,2
+,Census Region 4: West,CENS-R4,2007,2007,Legal Intervention / Operations of War,5,162,69595414,0.2
+,Census Region 4: West,CENS-R4,2007,2007,"Non-Injury, no intent classified",9,431700,69595414,620.3
+,Census Region 4: West,CENS-R4,2008,2008,Unintentional,1,26001,70509175,36.9
+,Census Region 4: West,CENS-R4,2008,2008,Suicide,2,9229,70509175,13.1
+,Census Region 4: West,CENS-R4,2008,2008,Homicide,3,3773,70509175,5.4
+,Census Region 4: West,CENS-R4,2008,2008,Undetermined ,4,1215,70509175,1.7
+,Census Region 4: West,CENS-R4,2008,2008,Legal Intervention / Operations of War,5,144,70509175,0.2
+,Census Region 4: West,CENS-R4,2008,2008,"Non-Injury, no intent classified",9,438572,70509175,622
+,Census Region 4: West,CENS-R4,2009,2009,Unintentional,1,25786,71341376,36.1
+,Census Region 4: West,CENS-R4,2009,2009,Suicide,2,9671,71341376,13.6
+,Census Region 4: West,CENS-R4,2009,2009,Homicide,3,3503,71341376,4.9
+,Census Region 4: West,CENS-R4,2009,2009,Undetermined ,4,1217,71341376,1.7
+,Census Region 4: West,CENS-R4,2009,2009,Legal Intervention / Operations of War,5,148,71341376,0.2
+,Census Region 4: West,CENS-R4,2009,2009,"Non-Injury, no intent classified",9,435954,71341376,611.1
+,Census Region 4: West,CENS-R4,2010,2010,Unintentional,1,25371,71945553,35.3
+,Census Region 4: West,CENS-R4,2010,2010,Suicide,2,9965,71945553,13.9
+,Census Region 4: West,CENS-R4,2010,2010,Homicide,3,3337,71945553,4.6
+,Census Region 4: West,CENS-R4,2010,2010,Undetermined ,4,1161,71945553,1.6
+,Census Region 4: West,CENS-R4,2010,2010,Legal Intervention / Operations of War,5,173,71945553,0.2
+,Census Region 4: West,CENS-R4,2010,2010,"Non-Injury, no intent classified",9,440637,71945553,612.5
+,Census Region 4: West,CENS-R4,2011,2011,Unintentional,1,26768,72815460,36.8
+,Census Region 4: West,CENS-R4,2011,2011,Suicide,2,10153,72815460,13.9
+,Census Region 4: West,CENS-R4,2011,2011,Homicide,3,3266,72815460,4.5
+,Census Region 4: West,CENS-R4,2011,2011,Undetermined ,4,1149,72815460,1.6
+,Census Region 4: West,CENS-R4,2011,2011,Legal Intervention / Operations of War,5,187,72815460,0.3
+,Census Region 4: West,CENS-R4,2011,2011,"Non-Injury, no intent classified",9,453204,72815460,622.4
+,Census Region 4: West,CENS-R4,2012,2012,Unintentional,1,26837,73537829,36.5
+,Census Region 4: West,CENS-R4,2012,2012,Suicide,2,10438,73537829,14.2
+,Census Region 4: West,CENS-R4,2012,2012,Homicide,3,3386,73537829,4.6
+,Census Region 4: West,CENS-R4,2012,2012,Undetermined ,4,1181,73537829,1.6
+,Census Region 4: West,CENS-R4,2012,2012,Legal Intervention / Operations of War,5,217,73537829,0.3
+,Census Region 4: West,CENS-R4,2012,2012,"Non-Injury, no intent classified",9,458853,73537829,624
+,Census Region 4: West,CENS-R4,2013,2013,Unintentional,1,27966,74247869,37.7
+,Census Region 4: West,CENS-R4,2013,2013,Suicide,2,10493,74247869,14.1
+,Census Region 4: West,CENS-R4,2013,2013,Homicide,3,3253,74247869,4.4
+,Census Region 4: West,CENS-R4,2013,2013,Undetermined ,4,1070,74247869,1.4
+,Census Region 4: West,CENS-R4,2013,2013,Legal Intervention / Operations of War,5,186,74247869,0.3
+,Census Region 4: West,CENS-R4,2013,2013,"Non-Injury, no intent classified",9,470442,74247869,633.6
+,Census Region 4: West,CENS-R4,2014,2014,Unintentional,1,28872,75023986,38.5
+,Census Region 4: West,CENS-R4,2014,2014,Suicide,2,11085,75023986,14.8
+,Census Region 4: West,CENS-R4,2014,2014,Homicide,3,3151,75023986,4.2
+,Census Region 4: West,CENS-R4,2014,2014,Undetermined ,4,956,75023986,1.3
+,Census Region 4: West,CENS-R4,2014,2014,Legal Intervention / Operations of War,5,206,75023986,0.3
+,Census Region 4: West,CENS-R4,2014,2014,"Non-Injury, no intent classified",9,472330,75023986,629.6
+,Census Region 4: West,CENS-R4,2015,2015,Unintentional,1,30699,75834288,40.5
+,Census Region 4: West,CENS-R4,2015,2015,Suicide,2,11313,75834288,14.9
+,Census Region 4: West,CENS-R4,2015,2015,Homicide,3,3523,75834288,4.6
+,Census Region 4: West,CENS-R4,2015,2015,Undetermined ,4,994,75834288,1.3
+,Census Region 4: West,CENS-R4,2015,2015,Legal Intervention / Operations of War,5,213,75834288,0.3
+,Census Region 4: West,CENS-R4,2015,2015,"Non-Injury, no intent classified",9,494425,75834288,652
+,Census Region 4: West,CENS-R4,2016,2016,Unintentional,1,32384,76657000,42.2
+,Census Region 4: West,CENS-R4,2016,2016,Suicide,2,11516,76657000,15
+,Census Region 4: West,CENS-R4,2016,2016,Homicide,3,3732,76657000,4.9
+,Census Region 4: West,CENS-R4,2016,2016,Undetermined ,4,974,76657000,1.3
+,Census Region 4: West,CENS-R4,2016,2016,Legal Intervention / Operations of War,5,200,76657000,0.3
+,Census Region 4: West,CENS-R4,2016,2016,"Non-Injury, no intent classified",9,501736,76657000,654.5
+---,,,,,,,,,
+"Dataset: Compressed Mortality, 1999-2016",,,,,,,,,
+Query Parameters:,,,,,,,,,
+Title: Mortality By Year Whole USA No Race,,,,,,,,,
+Group By: Census Region; Year; Injury Intent,,,,,,,,,
+Show Totals: False,,,,,,,,,
+Show Zero Values: False,,,,,,,,,
+Show Suppressed: False,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,
+---,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information.,,,,,,,,,
+---,,,,,,,,,
+"Query Date: Oct 28, 2019 12:42:18 AM",,,,,,,,,
+---,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File",,,,,,,,,
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No.",,,,,,,,,
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Oct 28, 2019 12:42:18 AM",,,,,,,,,
+---,,,,,,,,,
+Caveats:,,,,,,,,,
+"1. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the",,,,,,,,,
+1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010,,,,,,,,,
+are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race,,,,,,,,,
+intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal,,,,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016.",,,,,,,,,
+2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group.,,,,,,,,,
+"3. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision.,,,,,,,,,
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",,,,,,,,,
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies.,,,,,,,,,
+5. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death,,,,,,,,,
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More",,,,,,,,,
+information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies.,,,,,,,,,
+6. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies.,,,,,,,,,
